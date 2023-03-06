@@ -1,0 +1,4707 @@
+1
+0:00:00.000 --> 0:00:04.520
+Okay, so let me...
+2
+0:00:04.520 --> 0:00:10.560
+Ah, right, so all we've done is lost about 20 minutes getting set up and it still didn't
+3
+0:00:10.560 --> 0:00:14.960
+get set up quite right.
+4
+0:00:14.960 --> 0:00:19.240
+And I will try to figure out all the things that broke this time and do something different
+5
+0:00:19.240 --> 0:00:21.280
+next time for you.
+6
+0:00:21.280 --> 0:00:24.040
+But for right now, maybe we can proceed.
+7
+0:00:24.040 --> 0:00:30.880
+Okay, so the terminology first off, this is probably something that you know from a different
+8
+0:00:30.880 --> 0:00:31.880
+name.
+9
+0:00:31.880 --> 0:00:33.880
+Oh, that's...
+10
+0:00:33.880 --> 0:00:36.480
+Why, that's because...
+11
+0:00:36.480 --> 0:00:41.880
+Oh, you can't see the screen.
+12
+0:00:41.880 --> 0:00:46.600
+For me, you're a video and screener frozen.
+13
+0:00:46.600 --> 0:00:47.600
+Frozen?
+14
+0:00:47.600 --> 0:00:48.600
+Oh, okay, that's different from...
+15
+0:00:48.600 --> 0:00:51.640
+Oh, yes, sure enough.
+16
+0:00:51.640 --> 0:00:55.320
+It is frozen, so let me just try turning it off and on.
+17
+0:00:55.320 --> 0:00:56.320
+Off?
+18
+0:00:56.320 --> 0:00:57.320
+Oh.
+19
+0:00:57.320 --> 0:00:58.320
+Start.
+20
+0:00:58.320 --> 0:01:00.320
+Whoa.
+21
+0:01:00.320 --> 0:01:02.160
+It refuses.
+22
+0:01:02.160 --> 0:01:03.160
+Why...
+23
+0:01:03.160 --> 0:01:05.160
+Start stop camera.
+24
+0:01:05.160 --> 0:01:06.960
+Why will it not do that?
+25
+0:01:06.960 --> 0:01:14.760
+Actually, I don't think...
+26
+0:01:14.760 --> 0:01:17.360
+I don't think it'll kick you out at all.
+27
+0:01:17.360 --> 0:01:20.680
+All right, let's try it.
+28
+0:01:20.680 --> 0:01:22.840
+Here we go.
+29
+0:01:22.840 --> 0:01:27.520
+Because I'm actually speaking to you over the other computer anyway.
+30
+0:01:27.520 --> 0:01:30.040
+All right, now...
+31
+0:01:30.040 --> 0:01:31.920
+Oh, but now I can't...
+32
+0:01:31.920 --> 0:01:33.280
+It just cannot get a hold of it.
+33
+0:01:33.280 --> 0:01:37.520
+Oh, that's interesting.
+34
+0:01:37.520 --> 0:01:45.360
+Okay, I have to restart the browser altogether, I think.
+35
+0:01:45.360 --> 0:01:46.960
+I think this browser is dead.
+36
+0:01:46.960 --> 0:01:49.960
+All right, I'm leaving and coming back.
+37
+0:01:49.960 --> 0:01:50.960
+Bye.
+38
+0:01:50.960 --> 0:01:51.960
+Yep.
+39
+0:01:51.960 --> 0:02:11.040
+Yeah, actually, you probably hear...
+40
+0:02:11.040 --> 0:02:13.040
+Send to desktop.
+41
+0:02:13.040 --> 0:02:20.880
+You're muted.
+42
+0:02:20.880 --> 0:02:21.880
+You're muted.
+43
+0:02:21.880 --> 0:02:22.880
+I muted.
+44
+0:02:22.880 --> 0:02:23.880
+Oh, I muted.
+45
+0:02:23.880 --> 0:02:24.880
+Oh, all right.
+46
+0:02:24.880 --> 0:02:25.880
+All right.
+47
+0:02:25.880 --> 0:02:27.880
+We can hear you from the other computer.
+48
+0:02:27.880 --> 0:02:28.880
+Right.
+49
+0:02:28.880 --> 0:02:29.880
+And...
+50
+0:02:29.880 --> 0:02:30.880
+Oh.
+51
+0:02:30.880 --> 0:02:31.880
+And I was...
+52
+0:02:31.880 --> 0:02:32.880
+Oh.
+53
+0:02:32.880 --> 0:02:33.880
+And I was...
+54
+0:02:33.880 --> 0:02:34.880
+I was...
+55
+0:02:34.880 --> 0:02:38.160
+You can show this screen and then share the other audio.
+56
+0:02:38.160 --> 0:02:40.160
+Maybe that's what you want to do.
+57
+0:02:40.160 --> 0:02:41.160
+Yeah, I think that's what's going to happen.
+58
+0:02:41.160 --> 0:02:42.160
+Yeah.
+59
+0:02:42.160 --> 0:02:45.280
+In fact, just for a joke.
+60
+0:02:45.280 --> 0:02:46.760
+Just for a joke.
+61
+0:02:46.760 --> 0:02:47.760
+There.
+62
+0:02:47.760 --> 0:02:48.760
+Now you can...
+63
+0:02:48.760 --> 0:02:58.760
+Now you can just watch the back of my head.
+64
+0:02:58.760 --> 0:02:59.760
+We need...
+65
+0:02:59.760 --> 0:03:00.760
+We need...
+66
+0:03:00.760 --> 0:03:01.760
+All right.
+67
+0:03:01.760 --> 0:03:02.760
+All right, now.
+68
+0:03:02.760 --> 0:03:03.760
+And I'm going to allow this.
+69
+0:03:03.760 --> 0:03:04.760
+Okay.
+70
+0:03:04.760 --> 0:03:05.760
+Okay.
+71
+0:03:05.760 --> 0:03:06.760
+Yay!
+72
+0:03:06.760 --> 0:03:07.760
+We got you.
+73
+0:03:07.760 --> 0:03:08.760
+But...
+74
+0:03:08.760 --> 0:03:09.760
+Okay.
+75
+0:03:09.760 --> 0:03:10.760
+I'm going to...
+76
+0:03:10.760 --> 0:03:12.560
+We got you.
+77
+0:03:12.560 --> 0:03:13.560
+But now...
+78
+0:03:13.560 --> 0:03:14.560
+But now...
+79
+0:03:14.560 --> 0:03:15.560
+I don't have...
+80
+0:03:15.560 --> 0:03:16.560
+What I don't have is...
+81
+0:03:16.560 --> 0:03:17.160
+Oh, yeah so I just don't have...
+82
+0:03:17.160 --> 0:03:18.160
+Oh, yeah so I didn't know...
+83
+0:03:18.160 --> 0:03:20.160
+But I just don't have the ability to do to individual from this computer.
+84
+0:03:20.160 --> 0:03:21.160
+Oh, you didn't?
+85
+0:03:21.160 --> 0:03:22.160
+On the computer.
+86
+0:03:22.160 --> 0:03:23.160
+All right.
+87
+0:03:23.160 --> 0:03:26.160
+Well this movie is going to be a mess to put together afterwards.
+88
+0:03:26.160 --> 0:03:27.900
+I guess that's just going to...
+89
+0:03:27.900 --> 0:03:28.900
+Well...
+90
+0:03:28.900 --> 0:03:29.900
+Done.
+91
+0:03:29.900 --> 0:03:30.900
+All right.
+92
+0:03:30.900 --> 0:03:31.920
+That's different.
+93
+0:03:31.920 --> 0:03:32.920
+My...
+94
+0:03:32.920 --> 0:03:36.920
+I can see the screen but I'm not able to see your video.
+95
+0:03:36.920 --> 0:03:37.840
+Yeah.
+96
+0:03:37.840 --> 0:03:39.840
+That's right.
+97
+0:03:39.840 --> 0:03:42.640
+I was coming from a different place from my screen.
+98
+0:03:42.640 --> 0:03:44.480
+So I actually would have a name on it.
+99
+0:03:44.480 --> 0:03:45.800
+I don't know the name of it.
+100
+0:03:45.800 --> 0:03:47.000
+I gave myself a name on it.
+101
+0:03:47.000 --> 0:03:51.920
+But if you see someone who's busy working on a different
+102
+0:03:51.920 --> 0:03:53.480
+computer, that's one of the cameras.
+103
+0:03:53.480 --> 0:03:54.880
+That's me.
+104
+0:03:54.880 --> 0:03:58.880
+Oh, if I have a camera.
+105
+0:03:58.880 --> 0:04:00.880
+Oh, there.
+106
+0:04:00.880 --> 0:04:02.480
+There we go.
+107
+0:04:02.480 --> 0:04:06.960
+Now that's completely worth asking you.
+108
+0:04:06.960 --> 0:04:10.880
+That's fine.
+109
+0:04:10.880 --> 0:04:16.040
+I'm actually physically in some room where there might actually
+110
+0:04:16.040 --> 0:04:19.920
+be the room at which I'm working.
+111
+0:04:19.920 --> 0:04:25.960
+So here's the thing about batch versus batch versus
+112
+0:04:25.960 --> 0:04:28.120
+active processing.
+113
+0:04:28.120 --> 0:04:33.120
+This is basically the history of the music.
+114
+0:04:33.120 --> 0:04:39.200
+So in 1957, I've actually done a lot of things.
+115
+0:04:39.200 --> 0:04:45.440
+I've been on an old line for computer and the basic deal was
+116
+0:04:45.440 --> 0:04:47.480
+what we call batch.
+117
+0:04:47.480 --> 0:04:49.800
+And batches make something like that.
+118
+0:04:49.800 --> 0:04:50.560
+You make a program.
+119
+0:04:50.560 --> 0:04:51.560
+You make a program.
+120
+0:04:51.560 --> 0:04:53.360
+It's a stack of cards.
+121
+0:04:53.360 --> 0:04:55.480
+It's just one, but I just want to put them.
+122
+0:04:55.480 --> 0:04:57.760
+Large number of them.
+123
+0:04:57.760 --> 0:05:00.560
+And someone else probably has to do it.
+124
+0:05:00.560 --> 0:05:03.560
+So they have a stack of cards, too.
+125
+0:05:03.560 --> 0:05:06.920
+And so on.
+126
+0:05:06.920 --> 0:05:10.400
+What I'm doing here is I'm moving down.
+127
+0:05:10.400 --> 0:05:13.360
+Time moving down.
+128
+0:05:13.360 --> 0:05:14.120
+OK.
+129
+0:05:14.120 --> 0:05:17.240
+Now you have a computer, which in the old days always was
+130
+0:05:17.240 --> 0:05:19.120
+identified with take machines.
+131
+0:05:19.120 --> 0:05:23.240
+And the deal is the computer in time takes a certain amount
+132
+0:05:23.240 --> 0:05:27.200
+of time to manage each one of these so-called jobs.
+133
+0:05:27.200 --> 0:05:30.040
+Each one of these things is called a job.
+134
+0:05:30.040 --> 0:05:37.760
+So job number one executes over some period of time.
+135
+0:05:37.760 --> 0:05:41.280
+And job number two, which might have arrived here,
+136
+0:05:41.280 --> 0:05:44.600
+is going to have to wait until job number one got done.
+137
+0:05:44.600 --> 0:05:48.360
+So here's job number two getting done.
+138
+0:05:48.360 --> 0:05:50.560
+And then sometimes you get situations
+139
+0:05:50.560 --> 0:05:54.080
+where the computer is actually idle.
+140
+0:05:54.080 --> 0:05:56.800
+Because you've actually done all the jobs that you've
+141
+0:05:56.800 --> 0:05:57.320
+been given.
+142
+0:05:57.320 --> 0:05:59.400
+And then someone gives you another job.
+143
+0:05:59.400 --> 0:06:02.000
+And then you get to working again on that one.
+144
+0:06:02.000 --> 0:06:09.840
+So this, so the, whatever you say, the flow of work,
+145
+0:06:09.840 --> 0:06:12.160
+or the flow of stuff to do happens like that.
+146
+0:06:12.160 --> 0:06:15.360
+And then outputs appear here.
+147
+0:06:15.360 --> 0:06:20.240
+And the outputs also, at least if you were working a bank,
+148
+0:06:20.240 --> 0:06:23.080
+the outputs also should up on a bunch of punched cards
+149
+0:06:23.080 --> 0:06:27.560
+at the end of the execution of each job.
+150
+0:06:27.560 --> 0:06:29.680
+So that's a job.
+151
+0:06:29.680 --> 0:06:40.400
+Now, music in was a thing like that in which the stack of cards
+152
+0:06:40.400 --> 0:06:42.280
+consisted of two things.
+153
+0:06:42.280 --> 0:06:46.840
+One was an orchestra, which actually the separation
+154
+0:06:46.840 --> 0:06:48.480
+into orchestra and score probably only
+155
+0:06:48.480 --> 0:06:53.040
+happened by about music three, as opposed to music one.
+156
+0:06:53.040 --> 0:06:55.760
+But at any rate, if you say music in,
+157
+0:06:55.760 --> 0:06:58.240
+then you're talking about the whole series of music programs
+158
+0:06:58.240 --> 0:07:02.400
+that Matthews was writing from, I think, 61 to about 64.
+159
+0:07:02.400 --> 0:07:06.640
+And then other people took on and kept on writing
+160
+0:07:06.640 --> 0:07:10.840
+until even present.
+161
+0:07:10.840 --> 0:07:17.120
+So at any rate, the thing that Max was able to do was,
+162
+0:07:17.120 --> 0:07:23.200
+OK, first off, the output of the computer
+163
+0:07:23.200 --> 0:07:27.200
+in the music one, I should write that as a thing.
+164
+0:07:27.200 --> 0:07:28.840
+So here's music one.
+165
+0:07:28.840 --> 0:07:32.920
+Actually, it was just called music, but we now call it music one.
+166
+0:07:32.920 --> 0:07:34.720
+And the deal there was, instead of writing
+167
+0:07:34.720 --> 0:07:37.360
+to a bunch of punched cards, you would actually
+168
+0:07:37.360 --> 0:07:39.400
+write to a tape.
+169
+0:07:39.400 --> 0:07:44.240
+And the tape was a nine-track digital tape.
+170
+0:07:44.240 --> 0:07:48.200
+And then you would walk or drive with your tape
+171
+0:07:48.200 --> 0:07:49.560
+that you'd gotten off the tape machine
+172
+0:07:49.560 --> 0:07:52.600
+to another thing, which was called a DAC.
+173
+0:07:52.600 --> 0:07:58.360
+And the DAC actually took tape as an input and did something
+174
+0:07:58.360 --> 0:08:01.720
+so that out came sound from a speaker.
+175
+0:08:01.720 --> 0:08:03.960
+Or actually out came an analog signal
+176
+0:08:03.960 --> 0:08:04.960
+that you could play to the speaker,
+177
+0:08:04.960 --> 0:08:08.880
+but more likely you would play into a tape recorder.
+178
+0:08:08.880 --> 0:08:10.520
+This was a real time process in the sense
+179
+0:08:10.520 --> 0:08:13.160
+that you would actually run the tape through this.
+180
+0:08:13.160 --> 0:08:15.000
+This was a different kind of tape reader from a computer
+181
+0:08:15.000 --> 0:08:15.800
+tape reader.
+182
+0:08:15.800 --> 0:08:20.000
+It actually read the contents of the tape at the sample rate
+183
+0:08:20.000 --> 0:08:21.800
+so that the DAC itself had no memory at all.
+184
+0:08:21.800 --> 0:08:24.720
+I just sat there and looked at ones and zeroes coming off
+185
+0:08:24.720 --> 0:08:26.760
+of magnetic tape and turned them into voltages
+186
+0:08:26.760 --> 0:08:29.400
+that you heard.
+187
+0:08:29.400 --> 0:08:33.960
+So this whole paradigm, well, there are two things going on here.
+188
+0:08:33.960 --> 0:08:36.360
+One is the batch paradigm.
+189
+0:08:36.360 --> 0:08:41.320
+And the other is the music in paradigm,
+190
+0:08:41.320 --> 0:08:44.880
+which sat on top of the batch paradigm.
+191
+0:08:44.880 --> 0:08:49.240
+So the thing about batchiness is that one thing
+192
+0:08:49.240 --> 0:08:54.080
+the computer can't do when you're, by the way,
+193
+0:08:54.080 --> 0:08:56.760
+you probably don't touch the computer in the classical situation.
+194
+0:08:56.760 --> 0:08:58.320
+You actually hand the box of cards off
+195
+0:08:58.320 --> 0:09:00.480
+to the computer operator or computer tech
+196
+0:09:00.480 --> 0:09:03.040
+who goes into the computer room and actually feeds them
+197
+0:09:03.040 --> 0:09:08.040
+into the card reader so the computer can run the program.
+198
+0:09:08.040 --> 0:09:08.880
+This is all done by hand.
+199
+0:09:08.880 --> 0:09:12.760
+So really there's an idle moment here while the person is putting
+200
+0:09:12.760 --> 0:09:15.520
+the new stack of cards in the tray so that the computer
+201
+0:09:15.520 --> 0:09:17.720
+can get started.
+202
+0:09:17.720 --> 0:09:19.760
+But the other thing that you can't do in a situation like this
+203
+0:09:19.760 --> 0:09:23.760
+is you can't have the computer stop and request more information.
+204
+0:09:23.760 --> 0:09:27.120
+So it's a commonplace of computer operation now
+205
+0:09:27.120 --> 0:09:30.080
+that you do something like go to a website
+206
+0:09:30.080 --> 0:09:32.040
+and then there's something like will you allow me
+207
+0:09:32.040 --> 0:09:33.560
+to use your camera question mark?
+208
+0:09:33.560 --> 0:09:36.280
+And then you say, oh, yes, OK, you can use my camera.
+209
+0:09:36.280 --> 0:09:40.640
+Or there any such thing where the computer is off doing
+210
+0:09:40.640 --> 0:09:43.600
+something but it wants some additional input of years
+211
+0:09:43.600 --> 0:09:46.720
+before it'll finish the job.
+212
+0:09:46.720 --> 0:09:49.120
+Like, oh, I know you want me to say,
+213
+0:09:49.120 --> 0:09:53.440
+but type in a nice file name for me to save to that kind of thing.
+214
+0:09:53.440 --> 0:09:59.560
+And that's that at its simplest is the thing
+215
+0:09:59.560 --> 0:10:01.360
+which is called interactivity, or at least has
+216
+0:10:01.360 --> 0:10:05.440
+been called interactivity as long as I know,
+217
+0:10:05.440 --> 0:10:07.960
+which is not necessarily that there
+218
+0:10:07.960 --> 0:10:09.640
+be any graphics or anything like that,
+219
+0:10:09.640 --> 0:10:13.000
+or even anything real time me in the modern sense
+220
+0:10:13.000 --> 0:10:15.320
+of the word real time or phrase real time.
+221
+0:10:15.320 --> 0:10:23.680
+But that the computer be allowed to stop
+222
+0:10:23.680 --> 0:10:27.840
+and ask the operator or person running the program
+223
+0:10:27.840 --> 0:10:30.280
+for additional information.
+224
+0:10:30.280 --> 0:10:33.760
+And this is important because, or it's a thing
+225
+0:10:33.760 --> 0:10:37.280
+because if you didn't have that, then you would have to put
+226
+0:10:37.280 --> 0:10:40.120
+in every bit of information that the computer could possibly
+227
+0:10:40.120 --> 0:10:42.680
+need in advance of knowing whether the computer needs it
+228
+0:10:42.680 --> 0:10:43.720
+or not.
+229
+0:10:43.720 --> 0:10:45.920
+Whereas when you're interactive, the computer only
+230
+0:10:45.920 --> 0:10:52.280
+has to ask you for the bits of data that are actually needed.
+231
+0:10:52.280 --> 0:10:55.080
+So that might be a small fraction of all the possible pieces
+232
+0:10:55.080 --> 0:10:56.760
+of information that you could possibly want.
+233
+0:10:56.760 --> 0:10:58.520
+So you can probably think of forms that you've all
+234
+0:10:58.520 --> 0:11:01.840
+filled out that have pages of stuff that actually
+235
+0:11:01.840 --> 0:11:03.360
+isn't relevant at all to the situation.
+236
+0:11:03.360 --> 0:11:04.720
+And no one will ever read these pages,
+237
+0:11:04.720 --> 0:11:07.080
+which you have to fill them out because the web form insists
+238
+0:11:07.080 --> 0:11:10.120
+on having all the fields filled in.
+239
+0:11:10.120 --> 0:11:15.040
+And interactivity is the idea of getting rid of that necessity
+240
+0:11:15.040 --> 0:11:18.280
+and having the computer only require input,
+241
+0:11:18.280 --> 0:11:21.280
+or have the computer go and request input
+242
+0:11:21.280 --> 0:11:25.200
+as opposed to simply run in so-called batch mode,
+243
+0:11:25.200 --> 0:11:31.120
+where input is all has to be present at the very beginning.
+244
+0:11:31.120 --> 0:11:34.360
+There's one other thing going on here.
+245
+0:11:34.360 --> 0:11:38.600
+In batch mode, which doesn't look the same in interactive mode,
+246
+0:11:38.600 --> 0:11:42.920
+which is that there's a queue that I haven't really shown
+247
+0:11:42.920 --> 0:11:46.200
+in this picture, but when you have more than one job waiting
+248
+0:11:46.200 --> 0:11:51.080
+to get executed by the computer, the jobs then form a queue.
+249
+0:11:51.080 --> 0:11:54.880
+And you can also say there's a queue at the output,
+250
+0:11:54.880 --> 0:11:59.480
+which is the output is sitting there in stacks of cards,
+251
+0:11:59.480 --> 0:12:02.960
+waiting for the person wanting the program run to come by
+252
+0:12:02.960 --> 0:12:05.360
+and pick the result up.
+253
+0:12:05.360 --> 0:12:07.440
+Both of those are.
+254
+0:12:07.440 --> 0:12:10.520
+Both of those are queues, except that, well,
+255
+0:12:10.520 --> 0:12:13.560
+both of those are queues and they have slightly different
+256
+0:12:13.560 --> 0:12:17.200
+characteristics because the job queue probably
+257
+0:12:17.200 --> 0:12:21.760
+is first and first out, whereas the queue where you just save
+258
+0:12:21.760 --> 0:12:25.120
+your outputs and boxes is a different kind of a thing,
+259
+0:12:25.120 --> 0:12:29.040
+more complicated.
+260
+0:12:29.040 --> 0:12:36.080
+So that's the quick interactivity versus batch distinction.
+261
+0:12:36.080 --> 0:12:42.480
+And the next distinction is various kinds of real timeliness,
+262
+0:12:42.480 --> 0:12:44.840
+so real time versus non-real time.
+263
+0:12:44.840 --> 0:12:50.840
+And here, once more, you need a timeline, which I will just
+264
+0:12:50.840 --> 0:12:53.240
+to be consistent with the last picture I'll draw it
+265
+0:12:53.240 --> 0:12:54.600
+as being vertical.
+266
+0:12:54.600 --> 0:13:00.160
+And then what you have is the following sort of thing.
+267
+0:13:00.160 --> 0:13:02.320
+So you have tasks, which I will just
+268
+0:13:02.320 --> 0:13:07.320
+show as a job, although it could be a job or something else.
+269
+0:13:07.320 --> 0:13:13.560
+And the task has a deadline, a time
+270
+0:13:13.560 --> 0:13:17.720
+at which we expect the task to have been completed.
+271
+0:13:17.720 --> 0:13:22.080
+And if you have a system that is set up in such a way
+272
+0:13:22.080 --> 0:13:27.360
+that each task that's given has associated with it
+273
+0:13:27.360 --> 0:13:34.360
+a deadline.
+274
+0:13:34.360 --> 0:13:37.120
+So even if you have more than one task,
+275
+0:13:37.120 --> 0:13:40.480
+each one has a deadline by which we
+276
+0:13:40.480 --> 0:13:42.080
+expect it to be fulfilled.
+277
+0:13:42.080 --> 0:13:48.600
+And in a situation like this, you might be running this first
+278
+0:13:48.600 --> 0:13:50.520
+task away.
+279
+0:13:50.520 --> 0:13:54.120
+So the computer might be running task 1 here,
+280
+0:13:54.120 --> 0:13:56.720
+until task 2 comes in and has an earlier deadline,
+281
+0:13:56.720 --> 0:14:00.680
+at which point suddenly we had better preempt task 1.
+282
+0:14:00.680 --> 0:14:03.000
+Let me draw this way.
+283
+0:14:03.000 --> 0:14:06.440
+So I'm going to put ellipsis there sort of.
+284
+0:14:06.440 --> 0:14:09.800
+And then here's task 2.
+285
+0:14:09.800 --> 0:14:11.520
+It finishes hopefully by its deadline,
+286
+0:14:11.520 --> 0:14:17.280
+after which we go back to working on task 1.
+287
+0:14:17.280 --> 0:14:18.960
+And then if everything is done correctly,
+288
+0:14:18.960 --> 0:14:20.840
+then task 1 gets done by its deadline,
+289
+0:14:20.840 --> 0:14:22.680
+and task 2 gets done by its deadline.
+290
+0:14:22.680 --> 0:14:25.680
+All right.
+291
+0:14:25.680 --> 0:14:31.400
+So this is an idea which is called hard real time.
+292
+0:14:36.360 --> 0:14:42.880
+And there are various ways of not doing this.
+293
+0:14:42.880 --> 0:14:46.440
+So for instance, if you are designing software for an airplane
+294
+0:14:46.440 --> 0:14:49.440
+where this thing might actually crash if the tasks don't
+295
+0:14:49.440 --> 0:14:51.720
+meet their deadlines, then you do everything
+296
+0:14:51.720 --> 0:14:54.600
+using a hard real time discipline.
+297
+0:14:54.600 --> 0:14:58.560
+And you actually try to prove that your processor
+298
+0:14:58.560 --> 0:15:02.280
+will do all the software jobs that are supposed to be done
+299
+0:15:02.280 --> 0:15:08.600
+each by their own deadline, no matter what the situation is,
+300
+0:15:08.600 --> 0:15:12.200
+that's to say no matter how the tasks arrive.
+301
+0:15:12.200 --> 0:15:16.880
+Of course, if the tasks are all required computation,
+302
+0:15:16.880 --> 0:15:20.200
+then you can't have a situation that's hard real time
+303
+0:15:20.200 --> 0:15:23.160
+if someone is allowed just to throw on as many tasks as they want.
+304
+0:15:23.160 --> 0:15:26.560
+That's you're just not going to be able to do that.
+305
+0:15:26.560 --> 0:15:30.360
+So instead, what you do in a hard real time contract
+306
+0:15:30.360 --> 0:15:33.440
+is you say, well, here are the tasks that can appear.
+307
+0:15:33.440 --> 0:15:35.600
+Here's the frequency with which they can appear.
+308
+0:15:35.600 --> 0:15:37.920
+Now can you prove that your scheduling algorithm
+309
+0:15:37.920 --> 0:15:39.720
+will get each task done by its deadline?
+310
+0:15:39.720 --> 0:15:42.000
+And there are various kinds of disciplines
+311
+0:15:42.000 --> 0:15:46.000
+that allow you to do this approvably.
+312
+0:15:46.000 --> 0:15:48.960
+And there are various other disciplines
+313
+0:15:48.960 --> 0:15:52.800
+like the ones for Max and PD, where you pretend to be doing that,
+314
+0:15:52.800 --> 0:15:57.400
+although occasionally you fail, because you don't actually
+315
+0:15:57.400 --> 0:16:01.360
+enforce that control over what tasks you're given.
+316
+0:16:01.360 --> 0:16:08.120
+So in Max or PD, you can always add more audio processing
+317
+0:16:08.120 --> 0:16:09.680
+than your computer can handle.
+318
+0:16:09.680 --> 0:16:14.240
+And then the thing will run late, even though it's attempting
+319
+0:16:14.240 --> 0:16:17.280
+to reach all of its deadlines, it fails.
+320
+0:16:17.280 --> 0:16:21.480
+And that's one version of what you might call soft real time.
+321
+0:16:21.480 --> 0:16:25.120
+There are many ways of softening the requirements
+322
+0:16:25.120 --> 0:16:25.880
+of hard real time.
+323
+0:16:25.880 --> 0:16:29.400
+But one of them is just say, well, we know what the deadlines are,
+324
+0:16:29.400 --> 0:16:31.560
+and we'll meet them if we can.
+325
+0:16:31.560 --> 0:16:33.680
+That's the Max PD way of doing it.
+326
+0:16:33.680 --> 0:16:37.640
+Other ways of doing it would be, yeah,
+327
+0:16:37.640 --> 0:16:39.720
+but the deadlines themselves automatically
+328
+0:16:39.720 --> 0:16:43.080
+adjust themselves according to the task load.
+329
+0:16:43.080 --> 0:16:47.080
+In other words, you have a, you get things done as quickly
+330
+0:16:47.080 --> 0:16:47.580
+as you can.
+331
+0:16:47.580 --> 0:16:49.600
+You make an honest attempt to get everything done in order
+332
+0:16:49.600 --> 0:16:53.520
+of whatever deadlines that tasks have.
+333
+0:16:53.520 --> 0:16:56.600
+But at the same time, you know that you might fail,
+334
+0:16:56.600 --> 0:16:58.480
+because someone might give you too many tasks.
+335
+0:16:58.480 --> 0:17:03.040
+And in that case, you would simply relax all of your deadlines.
+336
+0:17:03.040 --> 0:17:05.360
+And all this is, as opposed to non-real time,
+337
+0:17:05.360 --> 0:17:08.720
+where you simply don't worry about what time things come in.
+338
+0:17:08.720 --> 0:17:13.720
+And classical computer science has largely ignored classical
+339
+0:17:13.720 --> 0:17:14.320
+computer science.
+340
+0:17:14.320 --> 0:17:16.520
+I mean, the computer science of the 60s and 70s
+341
+0:17:16.520 --> 0:17:18.840
+when the discipline was getting its name didn't even
+342
+0:17:18.840 --> 0:17:20.440
+know about real time, because they were all
+343
+0:17:20.440 --> 0:17:22.840
+thinking really in terms of algorithms that
+344
+0:17:22.840 --> 0:17:28.080
+had inputs and outputs, which looked like batch jobs.
+345
+0:17:28.080 --> 0:17:30.600
+Which is much easier to theorize about than situations
+346
+0:17:30.600 --> 0:17:34.880
+where you have live inputs that you don't know how to,
+347
+0:17:34.880 --> 0:17:39.440
+well, that aren't completely specified in advance.
+348
+0:17:39.440 --> 0:17:43.840
+So that's something about what real time is about.
+349
+0:17:43.840 --> 0:17:48.840
+So then there's this, so the two terms that happen here,
+350
+0:17:48.840 --> 0:17:54.680
+one is deadline, deadlines.
+351
+0:17:54.680 --> 0:17:55.920
+And then another is latency.
+352
+0:17:58.680 --> 0:18:02.080
+So the idea of latency is this.
+353
+0:18:02.080 --> 0:18:07.120
+You might have a situation where every task has a deadline,
+354
+0:18:07.120 --> 0:18:08.520
+all right, but the deadline is actually
+355
+0:18:08.520 --> 0:18:13.160
+defined to be a fixed amount of time.
+356
+0:18:13.160 --> 0:18:16.480
+Let's do it vertically again.
+357
+0:18:16.480 --> 0:18:19.240
+But every task is required to be done
+358
+0:18:19.240 --> 0:18:24.800
+a fixed period of time after it is submitted.
+359
+0:18:24.800 --> 0:18:28.200
+So the deadline for each task is automatically
+360
+0:18:28.200 --> 0:18:34.480
+this latency, which I'll just call the lowercase L, later
+361
+0:18:34.480 --> 0:18:37.960
+in time than the task.
+362
+0:18:37.960 --> 0:18:44.760
+If indeed you have a situation where everything has
+363
+0:18:44.760 --> 0:18:49.360
+the same latency, then problems of real time scheduling
+364
+0:18:49.360 --> 0:18:51.440
+become easier than they were otherwise.
+365
+0:18:51.440 --> 0:18:56.040
+Because you never have to get into a situation like this one
+366
+0:18:56.040 --> 0:18:58.840
+with tasks one and two where a task comes in with a more
+367
+0:18:58.840 --> 0:19:03.120
+urgent deadline than the task that's currently running.
+368
+0:19:03.120 --> 0:19:06.480
+Because then what you have to do, if such a thing happens,
+369
+0:19:06.480 --> 0:19:09.480
+is you have to suspend the operation of task number one
+370
+0:19:09.480 --> 0:19:13.720
+while the more urgent task gets dealt with in, according
+371
+0:19:13.720 --> 0:19:17.320
+to its deadline, then you go back to it.
+372
+0:19:17.320 --> 0:19:23.120
+So this ability to suspend and resume execution.
+373
+0:19:23.120 --> 0:19:27.520
+This is, all right, term just jumped down.
+374
+0:19:27.520 --> 0:19:31.920
+I had it's not context switching, but it is.
+375
+0:19:31.920 --> 0:19:33.600
+The name will come back to me.
+376
+0:19:33.600 --> 0:19:36.040
+But this idea of being able to interrupt one task
+377
+0:19:36.040 --> 0:19:38.920
+while you take care of another task is something
+378
+0:19:38.920 --> 0:19:41.680
+you have to deal with in deadline schedules in general.
+379
+0:19:41.680 --> 0:19:44.080
+But if you have a latency-based system that
+380
+0:19:44.080 --> 0:19:47.520
+has a fixed latency, then you don't worry about that.
+381
+0:19:47.520 --> 0:19:56.320
+You simply know that nothing will ever come in with an earlier
+382
+0:19:56.320 --> 0:19:58.600
+deadline than the thing that you're currently working on
+383
+0:19:58.600 --> 0:20:00.040
+because it came in later.
+384
+0:20:00.040 --> 0:20:04.520
+And therefore you might not be able to get everything done.
+385
+0:20:04.520 --> 0:20:10.280
+But you can certainly always be doing the most urgent thing
+386
+0:20:10.280 --> 0:20:14.120
+at all times without ever having to suspend the operation
+387
+0:20:14.120 --> 0:20:17.680
+of one thing in order to interrupt it with another.
+388
+0:20:17.680 --> 0:20:18.920
+All right, yeah, sure.
+389
+0:20:18.920 --> 0:20:30.880
+And what that means, actually there are two things
+390
+0:20:30.880 --> 0:20:32.040
+that could mean.
+391
+0:20:32.040 --> 0:20:34.720
+One is you have some kind of control over how fast people
+392
+0:20:34.720 --> 0:20:36.560
+give you tasks.
+393
+0:20:36.560 --> 0:20:39.400
+Another is that sometimes you can redefine the situation
+394
+0:20:39.400 --> 0:20:41.040
+in such a way.
+395
+0:20:41.040 --> 0:20:45.080
+And this is actually something that people used to do
+396
+0:20:45.080 --> 0:20:48.080
+when they were talking about airplane design and whatnot.
+397
+0:20:48.080 --> 0:20:50.680
+They would think that the output that you have
+398
+0:20:50.680 --> 0:20:54.640
+is some number or some voltage.
+399
+0:20:54.640 --> 0:20:58.120
+And it's some function of the inputs.
+400
+0:20:58.120 --> 0:20:59.560
+So here are inputs.
+401
+0:20:59.560 --> 0:21:02.120
+And they change at times that we don't even know about.
+402
+0:21:02.120 --> 0:21:07.160
+But there's some function which doesn't have any memory,
+403
+0:21:07.160 --> 0:21:09.880
+which tries to see to it that this output
+404
+0:21:09.880 --> 0:21:12.400
+is this function of these inputs.
+405
+0:21:12.400 --> 0:21:13.680
+And then one of the inputs changes
+406
+0:21:13.680 --> 0:21:16.480
+and so then you have to recompute the function.
+407
+0:21:16.480 --> 0:21:19.200
+At this point, if the thing changes two or three times,
+408
+0:21:19.200 --> 0:21:19.720
+that's OK.
+409
+0:21:19.720 --> 0:21:22.440
+You only have to do the function the last time the thing's
+410
+0:21:22.440 --> 0:21:27.720
+changed in order to be as up to date as you can so that when
+411
+0:21:27.720 --> 0:21:32.040
+you add tasks, you don't necessarily actually add computation.
+412
+0:21:32.040 --> 0:21:34.600
+And then you can design systems like that, which actually
+413
+0:21:34.600 --> 0:21:37.080
+can run in hard real time no matter how fast the inputs
+414
+0:21:37.080 --> 0:21:39.800
+change because the requirement is only
+415
+0:21:39.800 --> 0:21:44.040
+that the output be consistent with what the inputs were
+416
+0:21:44.040 --> 0:21:49.000
+recently, where recently is some limit of time ago.
+417
+0:21:49.000 --> 0:21:55.040
+So that's a sort of a functional way
+418
+0:21:55.040 --> 0:21:57.040
+of thinking about hard real time scheduling, which
+419
+0:21:57.040 --> 0:22:00.640
+is different from the task-based one, where things are actually
+420
+0:22:00.640 --> 0:22:01.320
+in task.
+421
+0:22:01.320 --> 0:22:04.280
+You can't skip one task because another task came in
+422
+0:22:04.280 --> 0:22:05.360
+that superseded it.
+423
+0:22:09.240 --> 0:22:11.160
+Unfortunately, computer music doesn't work like this
+424
+0:22:11.160 --> 0:22:14.240
+because, for instance, an output might be a sinusoid.
+425
+0:22:14.240 --> 0:22:16.480
+And a sinusoid is not a function of its frequency.
+426
+0:22:16.480 --> 0:22:18.340
+The frequency is sitting there saying,
+427
+0:22:18.340 --> 0:22:21.240
+440 in the sinusoid is sinusoiding away.
+428
+0:22:21.240 --> 0:22:23.200
+And it's not a function of the input anymore.
+429
+0:22:23.200 --> 0:22:26.320
+And so this model of the output being
+430
+0:22:26.320 --> 0:22:28.960
+a function of the inputs is no longer valid.
+431
+0:22:28.960 --> 0:22:34.120
+So you have to actually go back to something more task-based.
+432
+0:22:34.120 --> 0:22:35.280
+OK.
+433
+0:22:35.280 --> 0:22:37.400
+So most of the situations in electronic music
+434
+0:22:37.400 --> 0:22:41.600
+look like this, look like tasks and latencies.
+435
+0:22:41.600 --> 0:22:46.880
+And this is a thing now that you can theorize about a little bit.
+436
+0:22:46.880 --> 0:22:56.800
+Now what I'm going to do is make two different kinds of time,
+437
+0:22:56.800 --> 0:22:59.920
+one of which is input time and one of which is output time.
+438
+0:23:04.200 --> 0:23:13.880
+So what's going on here is the following kind of thing.
+439
+0:23:13.880 --> 0:23:21.320
+Suppose you're picking up a bunch of details.
+440
+0:23:21.320 --> 0:23:25.360
+But suppose there are things that come in at random,
+441
+0:23:25.360 --> 0:23:31.880
+not random, but at unknowable, unpredictable moments of time.
+442
+0:23:31.880 --> 0:23:34.200
+So this would be like incoming MIDI messages.
+443
+0:23:34.200 --> 0:23:36.520
+So someone has a keyboard instrument.
+444
+0:23:36.520 --> 0:23:40.120
+They're pressing notes down on the keyboard.
+445
+0:23:40.120 --> 0:23:42.400
+And now what you have to do is you have to see to it
+446
+0:23:42.400 --> 0:23:45.800
+whatever you have to do about those things gets done.
+447
+0:23:45.800 --> 0:23:49.400
+And they get done by in this model, which is to say each one
+448
+0:23:49.400 --> 0:23:52.440
+has a particular latency by which its output should become
+449
+0:23:52.440 --> 0:23:54.120
+audible.
+450
+0:23:54.120 --> 0:23:58.840
+So then what you can do is you can mark the latency down
+451
+0:23:58.840 --> 0:24:04.200
+as an interval here.
+452
+0:24:04.200 --> 0:24:12.200
+And then you can draw two lines, one of which is out equals n.
+453
+0:24:12.200 --> 0:24:14.840
+By the way, that's the opposite way of from how you would
+454
+0:24:14.840 --> 0:24:17.840
+write this as a function you say n equals out.
+455
+0:24:17.840 --> 0:24:19.920
+Because out is on the horizontal axis.
+456
+0:24:19.920 --> 0:24:25.720
+And here is out equals n plus latency.
+457
+0:24:25.720 --> 0:24:28.800
+And now, so this is real.
+458
+0:24:33.960 --> 0:24:37.840
+Actually, what I can do here is I actually call this,
+459
+0:24:37.840 --> 0:24:39.240
+this is not really quite right, but I'll
+460
+0:24:39.240 --> 0:24:41.040
+call this real time as well as out time.
+461
+0:24:41.040 --> 0:24:44.320
+Because this is the time that things actually happen.
+462
+0:24:44.320 --> 0:24:45.360
+So what's going on?
+463
+0:24:45.360 --> 0:24:48.640
+What's going to happen now is that the CPU is going to get
+464
+0:24:48.640 --> 0:24:53.640
+busy at a moment in time when it can.
+465
+0:24:53.640 --> 0:24:56.320
+So the CPU is idle here.
+466
+0:24:56.320 --> 0:24:58.360
+This is all idle time.
+467
+0:24:58.360 --> 0:25:02.280
+And now at some point, the CPU will suddenly get a job to do
+468
+0:25:02.280 --> 0:25:04.560
+and it will start computing.
+469
+0:25:04.560 --> 0:25:08.680
+And so at this point, there will be logically, we are still
+470
+0:25:08.680 --> 0:25:10.920
+at this end time here.
+471
+0:25:10.920 --> 0:25:14.240
+Even though the real time is somewhat greater than that.
+472
+0:25:14.240 --> 0:25:17.400
+And at some point, we get our output ready, hopefully
+473
+0:25:17.400 --> 0:25:20.040
+before the latency hits.
+474
+0:25:20.040 --> 0:25:25.840
+And then once we get it done, then we stop computing
+475
+0:25:25.840 --> 0:25:26.800
+because we did it.
+476
+0:25:26.800 --> 0:25:31.280
+And now we're idle again until someone gives us another
+477
+0:25:31.280 --> 0:25:34.040
+thing to do.
+478
+0:25:34.040 --> 0:25:38.640
+And so now, what you can think of, well, OK, let me keep
+479
+0:25:38.640 --> 0:25:39.280
+drawing this thing.
+480
+0:25:39.280 --> 0:25:41.200
+So now, suppose this took a while.
+481
+0:25:41.200 --> 0:25:42.480
+I'm going to draw a bad situation.
+482
+0:25:42.480 --> 0:25:43.880
+So this took a while.
+483
+0:25:43.880 --> 0:25:45.120
+And then we got done with it.
+484
+0:25:45.120 --> 0:25:49.640
+Actually, the third request came in, but it actually
+485
+0:25:49.640 --> 0:25:50.520
+has a later deadline.
+486
+0:25:50.520 --> 0:25:54.080
+The second request is here, has a deadline here.
+487
+0:25:54.080 --> 0:25:56.120
+And maybe we even got that done in time.
+488
+0:25:56.120 --> 0:25:59.200
+But maybe someone gave us another input.
+489
+0:25:59.200 --> 0:26:01.000
+And that took some time to compute, too.
+490
+0:26:01.000 --> 0:26:06.640
+And oops, we are out of gas here.
+491
+0:26:06.640 --> 0:26:09.960
+And now we're late.
+492
+0:26:09.960 --> 0:26:12.960
+OK.
+493
+0:26:12.960 --> 0:26:16.760
+And then once we get done, we say, OK, we're not late anymore.
+494
+0:26:16.760 --> 0:26:20.240
+We're back up before our deadline so that if someone else
+495
+0:26:20.240 --> 0:26:24.400
+gives us something to do, maybe we can get it done in time again.
+496
+0:26:24.400 --> 0:26:30.520
+So if you look at this diagram, you can sort of see
+497
+0:26:30.520 --> 0:26:34.360
+the idea of accumulating lateness.
+498
+0:26:34.360 --> 0:26:37.520
+So the more stuff someone throws you to do,
+499
+0:26:37.520 --> 0:26:44.760
+the more late you're going to get until, well,
+500
+0:26:44.760 --> 0:26:47.120
+until at some point, if people are throwing stuff too fast
+501
+0:26:47.120 --> 0:26:50.520
+at you, then you get too late and you miss your deadline.
+502
+0:26:50.520 --> 0:26:51.440
+And then what?
+503
+0:26:51.440 --> 0:26:52.440
+Yeah.
+504
+0:26:52.440 --> 0:26:54.400
+And then I guess you're going to have some distance
+505
+0:26:54.400 --> 0:26:56.640
+that is just that after you get that one,
+506
+0:26:56.640 --> 0:26:59.480
+you're going to be relating it at some point.
+507
+0:26:59.480 --> 0:27:01.160
+You're going to run out of space.
+508
+0:27:01.160 --> 0:27:03.640
+That wasn't so far.
+509
+0:27:03.640 --> 0:27:07.600
+Oh, yeah, that would be a catastrophic failure then, right?
+510
+0:27:07.600 --> 0:27:09.680
+In other words, if, oh, right.
+511
+0:27:09.680 --> 0:27:13.600
+So implicit in that question is, yeah, there's a queue going
+512
+0:27:13.600 --> 0:27:15.000
+on because in fact, what you're going to do
+513
+0:27:15.000 --> 0:27:17.320
+is queue these inputs.
+514
+0:27:17.320 --> 0:27:20.880
+And that queue itself could fill depending
+515
+0:27:20.880 --> 0:27:23.040
+on how much memory you have.
+516
+0:27:23.040 --> 0:27:25.200
+Or actually, what could also happen
+517
+0:27:25.200 --> 0:27:28.960
+is if you're systematically pulling jobs
+518
+0:27:28.960 --> 0:27:31.840
+in faster than your CPU can handle,
+519
+0:27:31.840 --> 0:27:34.440
+your lateness will get later and later and later until,
+520
+0:27:34.440 --> 0:27:35.960
+at some point, you will just discover
+521
+0:27:35.960 --> 0:27:38.200
+that the audience has gone home
+522
+0:27:38.200 --> 0:27:39.840
+and you still haven't finished processing all of your
+523
+0:27:39.840 --> 0:27:42.680
+midi notes.
+524
+0:27:42.680 --> 0:27:44.800
+So there are various things that you can do here.
+525
+0:27:44.800 --> 0:27:47.560
+But at least while we're still on theory,
+526
+0:27:47.560 --> 0:27:50.640
+the correct thing to do is to increase the latency
+527
+0:27:50.640 --> 0:27:55.840
+so that no matter what the person at the MIDI keyboard does,
+528
+0:27:55.840 --> 0:27:59.000
+or whatever the person at the MIDI keyboard is going to do
+529
+0:27:59.000 --> 0:28:03.400
+is not going to push you past whatever latency you chose.
+530
+0:28:03.400 --> 0:28:05.840
+So in computer music, at least,
+531
+0:28:05.840 --> 0:28:08.520
+you actually choose the latency.
+532
+0:28:08.520 --> 0:28:13.920
+And you set it to be large enough
+533
+0:28:13.920 --> 0:28:16.320
+that you won't get these kinds of accidents,
+534
+0:28:16.320 --> 0:28:19.760
+but you set it to be no larger than you have to
+535
+0:28:19.760 --> 0:28:22.560
+because if you set it gratuitously large,
+536
+0:28:22.560 --> 0:28:24.480
+so at this point, this is an achievable latency.
+537
+0:28:24.480 --> 0:28:26.960
+And so is this, but if you ask for a latency
+538
+0:28:26.960 --> 0:28:29.640
+that's greater than the least achievable one
+539
+0:28:29.640 --> 0:28:32.320
+that you could have asked for, then you've got extra delay
+540
+0:28:32.320 --> 0:28:35.360
+in the system that you didn't have to have?
+541
+0:28:35.360 --> 0:28:36.600
+All right.
+542
+0:28:36.600 --> 0:28:38.320
+It's implicit in this, by the way,
+543
+0:28:38.320 --> 0:28:44.520
+that you want to have whatever the result of this is happen
+544
+0:28:44.520 --> 0:28:48.960
+at the desired time.
+545
+0:28:48.960 --> 0:28:54.560
+So a thing that is worse than delay,
+546
+0:28:54.560 --> 0:28:57.200
+if an instrument player is playing an instrument, say,
+547
+0:28:57.200 --> 0:29:00.520
+a thing that's worse than delay is uncertainty.
+548
+0:29:00.520 --> 0:29:02.880
+So you would rather have a known delay of, say,
+549
+0:29:02.880 --> 0:29:04.440
+10 milliseconds in an instrument,
+550
+0:29:04.440 --> 0:29:06.640
+then you would have a delay of five milliseconds,
+551
+0:29:06.640 --> 0:29:10.280
+but occasionally goes up to eight.
+552
+0:29:10.280 --> 0:29:12.040
+And this is just because if you did that,
+553
+0:29:12.040 --> 0:29:14.720
+then you would have three milliseconds worth of jitter
+554
+0:29:14.720 --> 0:29:17.040
+in the timing of the input.
+555
+0:29:17.040 --> 0:29:21.840
+And that would be a musical phrasing problem.
+556
+0:29:21.840 --> 0:29:25.000
+That could cause you to even, well,
+557
+0:29:25.000 --> 0:29:27.840
+that's not even an exaggeration of an pianist.
+558
+0:29:27.840 --> 0:29:30.480
+Things do happen at the level of a few milliseconds,
+559
+0:29:30.480 --> 0:29:33.960
+but you're not going to hear the sequence
+560
+0:29:33.960 --> 0:29:36.920
+being performed exactly as the person played it,
+561
+0:29:36.920 --> 0:29:38.520
+which is what you want.
+562
+0:29:38.520 --> 0:29:40.880
+So it's okay to hear it a little bit late
+563
+0:29:40.880 --> 0:29:43.320
+as long as you can actually make the timing be exactly
+564
+0:29:43.320 --> 0:29:45.520
+the timing that it went in,
+565
+0:29:45.520 --> 0:29:47.360
+plus whatever lateness you have.
+566
+0:29:47.360 --> 0:29:52.360
+Okay, so this gives you a way of thinking
+567
+0:29:53.800 --> 0:29:58.800
+about how you could schedule things in a hard reel,
+568
+0:29:58.880 --> 0:30:01.120
+but not guaranteed hard, hard reel way,
+569
+0:30:01.120 --> 0:30:03.840
+which is typically what you do with electronic music.
+570
+0:30:05.800 --> 0:30:06.640
+All right.
+571
+0:30:08.520 --> 0:30:10.600
+Then, and the good thing about computer music
+572
+0:30:10.600 --> 0:30:12.640
+is that if you miss one of these deadlines,
+573
+0:30:12.640 --> 0:30:15.320
+no one dies, so it's not like programming an airplane.
+574
+0:30:15.320 --> 0:30:18.120
+So you don't actually have to prove that no matter what
+575
+0:30:18.120 --> 0:30:22.400
+the human does, you won't do the wrong thing as a result.
+576
+0:30:23.960 --> 0:30:27.640
+Okay, so this is a picture that we might have to,
+577
+0:30:27.640 --> 0:30:29.800
+or we'll have to come back to it at some point
+578
+0:30:29.800 --> 0:30:32.880
+because when there are multiple processors flying around,
+579
+0:30:32.880 --> 0:30:35.680
+then the situation gets a little bit more complicated
+580
+0:30:35.680 --> 0:30:38.800
+and interesting, and there's still ways of thinking about it.
+581
+0:30:38.800 --> 0:30:43.120
+All right, I'm going to just check and make sure things
+582
+0:30:43.120 --> 0:30:47.320
+are still appearing to work, I guess.
+583
+0:30:47.320 --> 0:30:48.160
+Okay.
+584
+0:30:49.320 --> 0:30:50.320
+All right.
+585
+0:30:52.240 --> 0:30:53.080
+Now,
+586
+0:30:57.600 --> 0:31:01.680
+okay, so that's the thing about real time, non-real time,
+587
+0:31:01.680 --> 0:31:05.360
+and hard and soft real time if you are real time.
+588
+0:31:06.840 --> 0:31:11.160
+There's another thing that is kind of obvious,
+589
+0:31:11.160 --> 0:31:17.120
+but which is historically important, which is the hardware
+590
+0:31:17.120 --> 0:31:18.440
+and software distinction.
+591
+0:31:21.240 --> 0:31:22.080
+Oops.
+592
+0:31:27.560 --> 0:31:29.240
+And it was,
+593
+0:31:32.600 --> 0:31:33.760
+it's sort of been,
+594
+0:31:35.560 --> 0:31:37.600
+it's been gospel among computer scientists
+595
+0:31:37.600 --> 0:31:40.560
+that the correct way to do everything is in software.
+596
+0:31:40.560 --> 0:31:41.960
+That was true for many years,
+597
+0:31:41.960 --> 0:31:44.400
+that if you had to actually solve a problem in hardware,
+598
+0:31:44.400 --> 0:31:47.040
+you were in some way failing as a computer scientist
+599
+0:31:47.040 --> 0:31:51.320
+because your solution wasn't theorizable and correct.
+600
+0:31:51.320 --> 0:31:53.440
+Computer sciences, of course, now,
+601
+0:31:53.440 --> 0:31:55.760
+grown to understand that,
+602
+0:31:55.760 --> 0:31:58.560
+or to be able to deal with things that actually
+603
+0:31:58.560 --> 0:31:59.880
+have hardware implications,
+604
+0:31:59.880 --> 0:32:02.800
+but in the 60s and 70s,
+605
+0:32:02.800 --> 0:32:05.960
+the idea of computer science was the computer itself
+606
+0:32:05.960 --> 0:32:08.680
+was an idealized model, it wasn't a real computer,
+607
+0:32:08.680 --> 0:32:13.520
+and you never thought seriously about the amount of time
+608
+0:32:13.520 --> 0:32:15.000
+or about the temperature in the room
+609
+0:32:15.000 --> 0:32:16.920
+or about anything like that.
+610
+0:32:16.920 --> 0:32:18.680
+Whereas when people build hardware,
+611
+0:32:20.920 --> 0:32:23.240
+hardware could break and then not be replaceable.
+612
+0:32:23.240 --> 0:32:25.960
+Whereas software can't break, the computer can break,
+613
+0:32:25.960 --> 0:32:28.280
+but then you just take your stack of punched cars
+614
+0:32:28.280 --> 0:32:30.720
+to a different computer and run it there instead.
+615
+0:32:30.720 --> 0:32:35.720
+So software solutions have these advantages
+616
+0:32:35.720 --> 0:32:40.720
+of well, first off, and this is a thing I have to come back to.
+617
+0:32:43.080 --> 0:32:44.720
+The possibility of determinism.
+618
+0:32:50.720 --> 0:32:53.120
+That's to say, the possibility of having a situation
+619
+0:32:53.120 --> 0:32:56.640
+where if you give it a known set of inputs
+620
+0:32:56.640 --> 0:32:58.320
+that actually will create a known set of,
+621
+0:32:58.320 --> 0:32:59.960
+or a predictable set of outputs,
+622
+0:32:59.960 --> 0:33:02.200
+and if you run the thing twice with the same inputs,
+623
+0:33:02.200 --> 0:33:06.520
+you'll get the same thing every time.
+624
+0:33:06.520 --> 0:33:09.160
+Whereas hardware as thought of as not being deterministic
+625
+0:33:09.160 --> 0:33:13.280
+because well, for instance, it could be analog or digital,
+626
+0:33:13.280 --> 0:33:14.120
+that's a thing.
+627
+0:33:19.400 --> 0:33:21.520
+Especially if it's analog,
+628
+0:33:21.520 --> 0:33:24.320
+it never does quite exactly the same thing twice.
+629
+0:33:24.320 --> 0:33:29.320
+And yet, even when you're talking digital hardware,
+630
+0:33:34.160 --> 0:33:37.600
+when you, I have to talk about some actual hardware
+631
+0:33:37.600 --> 0:33:39.640
+and probably in a later class,
+632
+0:33:39.640 --> 0:33:43.600
+but when you start thinking about the actual way
+633
+0:33:43.600 --> 0:33:46.000
+that people design special purpose hardware
+634
+0:33:46.000 --> 0:33:47.920
+for doing digital signal processing,
+635
+0:33:47.920 --> 0:33:51.640
+such as, for instance, inside hearing aids now,
+636
+0:33:51.640 --> 0:33:55.520
+but in the 70s and 80s inside,
+637
+0:33:55.520 --> 0:33:57.080
+for refrigerator sized machines
+638
+0:33:57.080 --> 0:34:00.800
+that were specialized for doing audio DSP,
+639
+0:34:03.120 --> 0:34:07.200
+you have to actually think about the design of the hardware
+640
+0:34:07.200 --> 0:34:09.680
+as you're designing the software algorithms.
+641
+0:34:09.680 --> 0:34:12.640
+And that gives you an interesting layer of complexity
+642
+0:34:12.640 --> 0:34:17.640
+that you sort of have to think about a little bit.
+643
+0:34:17.640 --> 0:34:21.160
+Because in fact, there are still reasons
+644
+0:34:21.160 --> 0:34:23.200
+for moving into semi hardware
+645
+0:34:23.200 --> 0:34:26.040
+or even totally hardware solutions.
+646
+0:34:26.040 --> 0:34:27.960
+So there are trade-offs to consider there.
+647
+0:34:30.520 --> 0:34:35.520
+Determinism has, in real time programming,
+648
+0:34:36.760 --> 0:34:40.120
+determinism actually has two different meanings,
+649
+0:34:40.120 --> 0:34:42.360
+or there are two different senses
+650
+0:34:42.360 --> 0:34:45.520
+in which you could be deterministic or undeterministic.
+651
+0:34:45.520 --> 0:34:47.920
+One is just getting the right output or not,
+652
+0:34:47.920 --> 0:34:49.720
+and the other is getting the right output
+653
+0:34:49.720 --> 0:34:52.440
+on time or not, which is the harder soft
+654
+0:34:52.440 --> 0:34:53.920
+and real time distinction.
+655
+0:34:55.200 --> 0:35:00.200
+And one way of trying to write deterministic software
+656
+0:35:01.000 --> 0:35:05.080
+is to say we're gonna get it deterministically correct
+657
+0:35:05.080 --> 0:35:09.040
+and we are probably going to get it to you on time.
+658
+0:35:09.040 --> 0:35:12.680
+And that's in fact the way pure data manages to do it.
+659
+0:35:12.680 --> 0:35:17.680
+So it's hard to deterministic in terms of the result
+660
+0:35:19.240 --> 0:35:21.680
+of a computation and it's soft deterministic
+661
+0:35:21.680 --> 0:35:25.560
+in terms of getting it to you by the time you actually need it.
+662
+0:35:29.160 --> 0:35:32.360
+And I mentioned, I've already talked enough about latency,
+663
+0:35:32.360 --> 0:35:33.440
+so I'm gonna stop talking.
+664
+0:35:33.440 --> 0:35:36.800
+I'm gonna skip the latency issue
+665
+0:35:36.800 --> 0:35:38.600
+and just move on to the next thing.
+666
+0:35:38.600 --> 0:35:43.600
+Now there are sort of higher level software concerns.
+667
+0:35:51.480 --> 0:35:54.040
+One of which, let's see, I'm just gonna keep going
+668
+0:35:54.040 --> 0:35:55.280
+on the same page, I think.
+669
+0:35:55.280 --> 0:35:56.920
+One of which is archivedability.
+670
+0:35:56.920 --> 0:36:01.920
+Archivedability, this is a thing that computer musicians
+671
+0:36:10.840 --> 0:36:12.880
+sometimes care about and sometimes don't,
+672
+0:36:12.880 --> 0:36:15.520
+but composers really care about this,
+673
+0:36:15.520 --> 0:36:18.400
+which is the ability to write a piece of music
+674
+0:36:18.400 --> 0:36:21.480
+and have the piece of music actually be something
+675
+0:36:21.480 --> 0:36:25.000
+you can put in a library or in a music publisher's hand
+676
+0:36:25.000 --> 0:36:29.120
+and have them be able to present it to some performer
+677
+0:36:29.120 --> 0:36:30.800
+or performers later in time
+678
+0:36:30.800 --> 0:36:32.720
+so they can actually play the piece of music.
+679
+0:36:36.960 --> 0:36:39.800
+This was not a problem before music was ever written,
+680
+0:36:39.800 --> 0:36:43.080
+of course, so we can blame the monks
+681
+0:36:43.080 --> 0:36:45.160
+who started writing music down for even creating
+682
+0:36:45.160 --> 0:36:46.360
+this is a problem.
+683
+0:36:46.360 --> 0:36:50.160
+But now that a composition is a thing
+684
+0:36:50.160 --> 0:36:53.600
+which exists on paper as well as in the air as music,
+685
+0:36:53.600 --> 0:36:58.000
+it's a thing that you can ask a computer set up
+686
+0:36:58.000 --> 0:37:00.360
+to be able to participate in.
+687
+0:37:00.360 --> 0:37:03.560
+So you'd like to be able to make archivable electronic music.
+688
+0:37:05.000 --> 0:37:10.000
+And for many years, that took the form of magnetic tape.
+689
+0:37:12.720 --> 0:37:17.720
+So publishers would publish a piece of so-called electronic
+690
+0:37:18.200 --> 0:37:21.400
+music, but the music actually consisted of a tape
+691
+0:37:21.400 --> 0:37:23.280
+which you played over speakers at the concert
+692
+0:37:23.280 --> 0:37:26.480
+instead of anything live.
+693
+0:37:26.480 --> 0:37:31.480
+And this was often combined with live instruments
+694
+0:37:31.480 --> 0:37:33.280
+for a bunch of reasons.
+695
+0:37:33.280 --> 0:37:35.680
+The simplest being that live instruments
+696
+0:37:35.680 --> 0:37:37.000
+actually are capable of doing things
+697
+0:37:37.000 --> 0:37:38.760
+that you can't get on tape very well.
+698
+0:37:38.760 --> 0:37:41.640
+And another thing is that you can't really get the public
+699
+0:37:41.640 --> 0:37:43.800
+to come to a pure tape music concert.
+700
+0:37:44.960 --> 0:37:48.200
+You used to be able to back in 1948
+701
+0:37:48.200 --> 0:37:51.800
+when that was a novelty, people would actually go to watch
+702
+0:37:51.800 --> 0:37:53.800
+someone run a tape recorder in a room.
+703
+0:37:53.800 --> 0:37:58.800
+But even by the 70s, that was sort of like hard to argue.
+704
+0:38:01.320 --> 0:38:04.280
+So then what do you want to do if you want to actually
+705
+0:38:04.280 --> 0:38:07.000
+have the electronics be something that is more than just
+706
+0:38:07.000 --> 0:38:09.800
+a dead thing that's sitting on a piece of tape?
+707
+0:38:12.080 --> 0:38:15.880
+Well, then you have to do what everyone's been trying to do
+708
+0:38:15.880 --> 0:38:19.640
+which is make usable real-time systems for electronic music.
+709
+0:38:19.640 --> 0:38:24.640
+But those are, in fact, pieces of code that have to get run.
+710
+0:38:26.160 --> 0:38:28.160
+And then you have to worry about, well,
+711
+0:38:28.160 --> 0:38:31.600
+if I give someone this patch or worse yet,
+712
+0:38:31.600 --> 0:38:33.440
+if I give someone this piece of hardware
+713
+0:38:33.440 --> 0:38:35.840
+that I designed to do this bit of processing
+714
+0:38:35.840 --> 0:38:37.600
+be it analog or digital,
+715
+0:38:37.600 --> 0:38:40.480
+are they actually going to be able to do that
+716
+0:38:40.480 --> 0:38:42.480
+to play the music or not?
+717
+0:38:42.480 --> 0:38:47.480
+And the, let's see.
+718
+0:38:52.640 --> 0:38:57.880
+This has been a thing that a lot of people just torn their hair
+719
+0:38:57.880 --> 0:38:59.360
+out over.
+720
+0:38:59.360 --> 0:39:02.440
+So for instance, there are pieces by Morton Sabotnik
+721
+0:39:02.440 --> 0:39:06.200
+called the Ghost Box pieces where Morton Sabotnik's
+722
+0:39:06.200 --> 0:39:10.040
+assistant makes a thing which is actually inside a metal box.
+723
+0:39:10.040 --> 0:39:13.120
+This is a Sabotnik Ghost Box.
+724
+0:39:13.120 --> 0:39:14.640
+And you don't know what's in there,
+725
+0:39:14.640 --> 0:39:19.200
+but you can rent the Ghost Box from Sabotnik's publisher
+726
+0:39:19.200 --> 0:39:21.000
+and then you can play this piece for, say,
+727
+0:39:21.000 --> 0:39:22.600
+cello and ghost box.
+728
+0:39:22.600 --> 0:39:25.080
+And this actually happened at UCSD once.
+729
+0:39:25.080 --> 0:39:27.720
+The cellist actually got a hold of a ghost box
+730
+0:39:27.720 --> 0:39:31.040
+and played a cello and ghost box piece.
+731
+0:39:31.040 --> 0:39:32.200
+It can be done.
+732
+0:39:32.200 --> 0:39:36.920
+And that's okay as long as the Ghost Box is continuing to exist.
+733
+0:39:36.920 --> 0:39:39.600
+But music publishers are not going to be able to go in there
+734
+0:39:39.600 --> 0:39:44.040
+and repair the electronics when they start to get wonky.
+735
+0:39:44.040 --> 0:39:46.640
+And so then you need someone like Tom Erb to go collect
+736
+0:39:46.640 --> 0:39:49.680
+these old things and make it possible for musicians
+737
+0:39:49.680 --> 0:39:53.440
+to continue running these pieces that run on this old hardware.
+738
+0:39:56.480 --> 0:39:58.960
+Some of the Ghost Box, by the way,
+739
+0:39:58.960 --> 0:40:00.320
+had analog processing at it.
+740
+0:40:00.320 --> 0:40:01.600
+It wasn't digital at all.
+741
+0:40:01.600 --> 0:40:04.720
+Although there was digital control in it so that you could
+742
+0:40:04.720 --> 0:40:06.400
+sequence what the Ghost Box would do.
+743
+0:40:06.400 --> 0:40:11.400
+More recent, well, a bigger example is the great old
+744
+0:40:15.840 --> 0:40:20.840
+bit-slice architectures of the 1970s and 80s
+745
+0:40:20.840 --> 0:40:24.560
+about which I will talk a great deal more later
+746
+0:40:24.560 --> 0:40:27.080
+because they had a lot of interesting design issues.
+747
+0:40:27.080 --> 0:40:30.600
+But the Forex, which was the Eircom thing,
+748
+0:40:32.840 --> 0:40:36.360
+and then Stanford, actually, this was the end of a bunch
+749
+0:40:36.360 --> 0:40:41.360
+of, this was the end of the line of a bunch of series
+750
+0:40:41.480 --> 0:40:43.480
+of things starting with the 4A.
+751
+0:40:44.680 --> 0:40:48.800
+And one of them that I want to talk about is the 4C
+752
+0:40:48.800 --> 0:40:53.800
+because there was a, there actually is a published paper
+753
+0:40:54.240 --> 0:40:56.760
+about some software that ran on the 4C that was an early
+754
+0:40:56.760 --> 0:41:00.760
+attempt at doing interactive electronic music.
+755
+0:41:00.760 --> 0:41:02.880
+And then also at Stanford, there was a thing called
+756
+0:41:02.880 --> 0:41:06.520
+the Samson Box.
+757
+0:41:07.800 --> 0:41:10.120
+So usually it's called the Sam Box.
+758
+0:41:12.520 --> 0:41:13.600
+You can still see this thing.
+759
+0:41:13.600 --> 0:41:15.520
+It's still standing there at Stanford.
+760
+0:41:15.520 --> 0:41:17.680
+In fact, there's also a 4X sitting in the,
+761
+0:41:17.680 --> 0:41:19.320
+in Lovellette in Paris.
+762
+0:41:19.320 --> 0:41:21.680
+So the hardware actually still exists,
+763
+0:41:21.680 --> 0:41:26.400
+although it will not run the, who knows,
+764
+0:41:26.400 --> 0:41:28.840
+but something in there is broken in each one of these things
+765
+0:41:28.840 --> 0:41:31.240
+so that if you plug it in, maybe you'd see smoke
+766
+0:41:31.240 --> 0:41:33.560
+or maybe you would just not get any sound out,
+767
+0:41:33.560 --> 0:41:34.800
+which is the most likely thing.
+768
+0:41:35.800 --> 0:41:39.720
+So these are, these are both special purpose hardware
+769
+0:41:39.720 --> 0:41:43.320
+a little bit like, not exactly,
+770
+0:41:43.320 --> 0:41:47.400
+but a little bit like what is now our doinos.
+771
+0:41:50.760 --> 0:41:52.040
+In fact, I should write two things down.
+772
+0:41:52.040 --> 0:41:54.320
+There's our, no, just one.
+773
+0:41:54.320 --> 0:41:59.320
+Our doinos, maybe the most, the best known of these things,
+774
+0:41:59.320 --> 0:42:02.800
+but now, nowadays you can buy little processors on a card
+775
+0:42:02.800 --> 0:42:04.280
+that don't have any operating systems,
+776
+0:42:04.280 --> 0:42:07.160
+but which are in fact some kind of special purpose hardware.
+777
+0:42:07.160 --> 0:42:09.320
+In the case of the Arduino, it actually has a general
+778
+0:42:09.320 --> 0:42:11.480
+purpose processing unit,
+779
+0:42:11.480 --> 0:42:13.920
+but it doesn't run an operating system
+780
+0:42:13.920 --> 0:42:16.400
+and so it can't really be considered a full-fledged computer
+781
+0:42:16.400 --> 0:42:17.520
+or a whole computer.
+782
+0:42:17.520 --> 0:42:20.440
+It's just a thing that can do special purpose tasks.
+783
+0:42:22.520 --> 0:42:26.200
+So these are things and the,
+784
+0:42:26.200 --> 0:42:30.640
+the music that was written on all these objects has had,
+785
+0:42:30.640 --> 0:42:32.840
+well, our doinos are still around.
+786
+0:42:32.840 --> 0:42:35.360
+The music that's been written on Forex's and Samson boxes
+787
+0:42:35.360 --> 0:42:39.800
+has had to be translated in order to be realized a new.
+788
+0:42:41.240 --> 0:42:46.240
+And I actually am not up to date on whether anyone
+789
+0:42:47.240 --> 0:42:50.240
+is still able to run any of the Samson box programs,
+790
+0:42:51.160 --> 0:42:53.640
+but I can tell you that there are pieces
+791
+0:42:53.640 --> 0:42:56.880
+of the earcom that were realized on a Forex that are still played today.
+792
+0:42:56.880 --> 0:43:01.880
+And the, but it was done basically by understanding what the Forex was
+793
+0:43:03.640 --> 0:43:06.320
+and recoding the entire piece of music to run
+794
+0:43:06.320 --> 0:43:08.400
+on a more modern,
+795
+0:43:08.400 --> 0:43:11.560
+a piece of hard, more modern hardware and software.
+796
+0:43:11.560 --> 0:43:13.120
+So right now, as far as I know,
+797
+0:43:13.120 --> 0:43:15.520
+all of the music that was written on a Forex that's playable now
+798
+0:43:15.520 --> 0:43:17.520
+is played using either Macs or pure data.
+799
+0:43:18.640 --> 0:43:23.040
+And when I show you a little bit more about what the architecture,
+800
+0:43:23.040 --> 0:43:25.440
+Forex was like, you might understand
+801
+0:43:25.440 --> 0:43:28.160
+what might have been involved in getting that switch over.
+802
+0:43:29.960 --> 0:43:34.960
+Okay, so that's a little bit about the hardware software thing.
+803
+0:43:35.680 --> 0:43:39.400
+Why did people use funny hardware instead of just computers?
+804
+0:43:39.400 --> 0:43:40.640
+There were two reasons.
+805
+0:43:41.840 --> 0:43:46.840
+One was that until the late 90s,
+806
+0:43:46.840 --> 0:43:49.840
+until the mid to late 90s,
+807
+0:43:51.840 --> 0:43:55.840
+computer hardware did not come by default
+808
+0:43:55.840 --> 0:43:57.840
+with audio input and output.
+809
+0:43:57.840 --> 0:44:00.840
+So if, so analog to digital converters
+810
+0:44:00.840 --> 0:44:03.840
+and digital to analog converters of the sort that you would connect
+811
+0:44:03.840 --> 0:44:04.840
+onto a computer,
+812
+0:44:04.840 --> 0:44:06.840
+were usually add on devices that were,
+813
+0:44:06.840 --> 0:44:11.840
+that were rather exotic until they started being built into the,
+814
+0:44:11.840 --> 0:44:13.840
+into the standard computer hardware.
+815
+0:44:13.840 --> 0:44:18.840
+So in the days before about, I think before about 95,
+816
+0:44:18.840 --> 0:44:20.840
+but by 97, it was somewhat commonplace.
+817
+0:44:20.840 --> 0:44:23.840
+You could actually get a computer that would run at say 100 megahertz
+818
+0:44:23.840 --> 0:44:27.840
+and would have audio input and output built in.
+819
+0:44:27.840 --> 0:44:30.840
+I think primarily because of gamers,
+820
+0:44:30.840 --> 0:44:32.840
+gamers wanted to have audio on their computers.
+821
+0:44:32.840 --> 0:44:35.840
+And so if you could sell them a computer with built-in audio,
+822
+0:44:35.840 --> 0:44:39.840
+that would make the computer more valuable and you could charge more money.
+823
+0:44:39.840 --> 0:44:41.840
+Before you start,
+824
+0:44:41.840 --> 0:44:43.840
+you could be able to charge more money.
+825
+0:44:43.840 --> 0:44:46.840
+Before then, computers were really objects that people used
+826
+0:44:46.840 --> 0:44:49.840
+for banking or designing missile trajectories,
+827
+0:44:49.840 --> 0:44:51.840
+and so getting audio into and out of the computer
+828
+0:44:51.840 --> 0:44:54.840
+was not considered a priority at all.
+829
+0:44:54.840 --> 0:44:58.840
+And also it's difficult so people just did do it.
+830
+0:44:58.840 --> 0:45:02.840
+So at any rate, back in the Forex and Samsung Box days,
+831
+0:45:02.840 --> 0:45:04.840
+which would be the 1970s,
+832
+0:45:04.840 --> 0:45:07.840
+and even 80s for the Forex,
+833
+0:45:07.840 --> 0:45:10.840
+computers, you wouldn't be able to do what you did on a Forex,
+834
+0:45:10.840 --> 0:45:13.840
+on a computer simply because the computer didn't have audio
+835
+0:45:13.840 --> 0:45:15.840
+and put an output attached to it.
+836
+0:45:15.840 --> 0:45:18.840
+You had to drive over to someplace
+837
+0:45:18.840 --> 0:45:21.840
+that had a digital analog converter.
+838
+0:45:21.840 --> 0:45:23.840
+That's a slight exaggeration,
+839
+0:45:23.840 --> 0:45:26.840
+but people still were doing that in the 70s.
+840
+0:45:26.840 --> 0:45:29.840
+But there's another thing which is just the sheer number of computations
+841
+0:45:29.840 --> 0:45:31.840
+per second that was needed.
+842
+0:45:31.840 --> 0:45:36.840
+So if you look at the speeds of computers,
+843
+0:45:36.840 --> 0:45:41.840
+and I guess I'm just going to operate by memory here,
+844
+0:45:41.840 --> 0:45:44.840
+so I remember in 94,
+845
+0:45:44.840 --> 0:45:49.840
+the computer that I had on my desk ran at 25 megahertz.
+846
+0:45:49.840 --> 0:45:53.840
+So this is megahertz.
+847
+0:45:53.840 --> 0:45:58.840
+At 97, I had one that ran at about 100.
+848
+0:45:58.840 --> 0:46:01.840
+And then I forget,
+849
+0:46:01.840 --> 0:46:04.840
+but then it was roughly doubling every couple of years,
+850
+0:46:04.840 --> 0:46:07.840
+so let's just save by 99.
+851
+0:46:07.840 --> 0:46:11.840
+We were running at 200 and by 2001.
+852
+0:46:11.840 --> 0:46:13.840
+We might have been running at 400.
+853
+0:46:13.840 --> 0:46:15.840
+That might not be exactly right.
+854
+0:46:15.840 --> 0:46:18.840
+I remember these two figures pretty well.
+855
+0:46:18.840 --> 0:46:21.840
+Now, 25 megahertz roughly means,
+856
+0:46:21.840 --> 0:46:23.840
+although not really, roughly means that you can get somewhere
+857
+0:46:23.840 --> 0:46:28.840
+between a half of that and fully that number
+858
+0:46:28.840 --> 0:46:30.840
+of multiplications per second,
+859
+0:46:30.840 --> 0:46:34.840
+which is how you measured the speed of digital signal processing
+860
+0:46:34.840 --> 0:46:36.840
+back in the day.
+861
+0:46:36.840 --> 0:46:42.840
+So if you figure that sound goes at 44,000,
+862
+0:46:42.840 --> 0:46:46.840
+44 kilohertz,
+863
+0:46:46.840 --> 0:46:54.840
+well, 25 megahertz over 44 kilohertz is about 500,
+864
+0:46:54.840 --> 0:46:56.840
+I'm doing that too fast.
+865
+0:46:56.840 --> 0:46:59.840
+That means that you have about 500 multiplications
+866
+0:46:59.840 --> 0:47:01.840
+that you can do, I even,
+867
+0:47:01.840 --> 0:47:03.840
+some well, between that and a half that say,
+868
+0:47:03.840 --> 0:47:08.840
+multiplications that you can do per sample.
+869
+0:47:08.840 --> 0:47:12.840
+What that means is that by the time things hit about 25 megahertz,
+870
+0:47:12.840 --> 0:47:17.840
+you could do a kind of a simple patch.
+871
+0:47:17.840 --> 0:47:20.840
+As to say, you could get a few oscillators in.
+872
+0:47:20.840 --> 0:47:23.840
+An oscillator might cost about 10 of these things.
+873
+0:47:23.840 --> 0:47:25.840
+You might have 250 of them,
+874
+0:47:25.840 --> 0:47:28.840
+so you might be able to squeeze 25 oscillators
+875
+0:47:28.840 --> 0:47:31.840
+onto a 25 megahertz processor.
+876
+0:47:31.840 --> 0:47:34.840
+The Forex is,
+877
+0:47:34.840 --> 0:47:37.840
+the Forex came online,
+878
+0:47:37.840 --> 0:47:39.840
+depending on how you measure,
+879
+0:47:39.840 --> 0:47:41.840
+but they were touring,
+880
+0:47:41.840 --> 0:47:45.840
+they were beginning a tour with it seriously in 1982.
+881
+0:47:45.840 --> 0:47:47.840
+And the Forex was,
+882
+0:47:47.840 --> 0:47:51.840
+let's see, I need to try to remember this,
+883
+0:47:51.840 --> 0:47:57.840
+the Forex had a 120 nanosecond multiplication
+884
+0:47:57.840 --> 0:47:59.840
+that's to say,
+885
+0:47:59.840 --> 0:48:04.840
+it ran at six megahertz.
+886
+0:48:04.840 --> 0:48:08.840
+Yeah,
+887
+0:48:08.840 --> 0:48:11.840
+the multiplier ran at six megahertz.
+888
+0:48:11.840 --> 0:48:16.840
+And the thing itself had eight processors in it.
+889
+0:48:16.840 --> 0:48:18.840
+So between all of them,
+890
+0:48:18.840 --> 0:48:23.840
+you would get about 48 megahertz of multiplication.
+891
+0:48:23.840 --> 0:48:27.840
+So the Forex of 72,
+892
+0:48:27.840 --> 0:48:30.840
+just in terms of raw power,
+893
+0:48:30.840 --> 0:48:33.840
+got somewhere close to,
+894
+0:48:33.840 --> 0:48:37.840
+actually got much better than what you could do in 94.
+895
+0:48:37.840 --> 0:48:40.840
+Probably got pretty close to what you could do in 97
+896
+0:48:40.840 --> 0:48:44.840
+on a general purpose machine.
+897
+0:48:44.840 --> 0:48:47.840
+The reason it was able to do that was because
+898
+0:48:47.840 --> 0:48:50.840
+it was designed not to be a general purpose computer,
+899
+0:48:50.840 --> 0:48:52.840
+but designed to be a little multiplication machine.
+900
+0:48:52.840 --> 0:48:54.840
+So it did only those things that you absolutely had to do
+901
+0:48:54.840 --> 0:48:56.840
+to grind out audio samples and nothing else.
+902
+0:48:56.840 --> 0:48:58.840
+So you couldn't have files on it.
+903
+0:48:58.840 --> 0:48:59.840
+There was no,
+904
+0:48:59.840 --> 0:49:02.840
+there were no characters like you couldn't write the word
+905
+0:49:02.840 --> 0:49:04.840
+cat down on the thing.
+906
+0:49:04.840 --> 0:49:05.840
+There was no ASCII,
+907
+0:49:05.840 --> 0:49:06.840
+there was nothing like that.
+908
+0:49:06.840 --> 0:49:09.840
+There was just a bunch of number crunching stuff.
+909
+0:49:09.840 --> 0:49:14.840
+And it was the size of a full size refrigerator.
+910
+0:49:14.840 --> 0:49:16.840
+And that was possible to make in 82.
+911
+0:49:16.840 --> 0:49:19.840
+And that was possible to move on to general purpose hardware
+912
+0:49:19.840 --> 0:49:21.840
+somewhere around 97.
+913
+0:49:21.840 --> 0:49:23.840
+And actually, practically speaking,
+914
+0:49:23.840 --> 0:49:26.840
+it took about until 2000 before you could run 4x patches
+915
+0:49:26.840 --> 0:49:28.840
+on general purpose machines.
+916
+0:49:28.840 --> 0:49:32.840
+So they got an 18 year lead on everything
+917
+0:49:32.840 --> 0:49:36.840
+by building their own special purpose processor.
+918
+0:49:36.840 --> 0:49:39.840
+So that's,
+919
+0:49:39.840 --> 0:49:41.840
+that is, okay,
+920
+0:49:41.840 --> 0:49:42.840
+so in terms of archived ability,
+921
+0:49:42.840 --> 0:49:43.840
+they kind of,
+922
+0:49:43.840 --> 0:49:45.840
+they threw that away in a sense
+923
+0:49:45.840 --> 0:49:48.840
+because they just made something
+924
+0:49:48.840 --> 0:49:50.840
+that was only going to exist for the number of years
+925
+0:49:50.840 --> 0:49:51.840
+that they kept it running,
+926
+0:49:51.840 --> 0:49:54.840
+which was something like a decade.
+927
+0:49:54.840 --> 0:49:56.840
+It had a nice long life.
+928
+0:49:56.840 --> 0:50:00.840
+Hardware didn't change as fast in the 80s as it does now.
+929
+0:50:00.840 --> 0:50:02.840
+But at the end of that decade,
+930
+0:50:02.840 --> 0:50:05.840
+when the 4x started getting replaced by ISPWs,
+931
+0:50:05.840 --> 0:50:07.840
+which was another,
+932
+0:50:07.840 --> 0:50:11.840
+which was the next thing after the 4x that happened at EARCOM,
+933
+0:50:11.840 --> 0:50:13.840
+then everything that,
+934
+0:50:13.840 --> 0:50:16.840
+well, then there was a triage process
+935
+0:50:16.840 --> 0:50:18.840
+because pieces that had run on the 4x
+936
+0:50:18.840 --> 0:50:20.840
+if they were gauged,
+937
+0:50:20.840 --> 0:50:22.840
+judged to be important enough,
+938
+0:50:22.840 --> 0:50:24.840
+got moved over to the ISPW
+939
+0:50:24.840 --> 0:50:25.840
+and if they,
+940
+0:50:25.840 --> 0:50:27.840
+if they were just sort of orphaned,
+941
+0:50:27.840 --> 0:50:30.840
+then they just sort of died with the 4x.
+942
+0:50:30.840 --> 0:50:33.840
+Let's see,
+943
+0:50:33.840 --> 0:50:34.840
+side note,
+944
+0:50:34.840 --> 0:50:37.840
+I have kept a bunch of 4x microcode around
+945
+0:50:37.840 --> 0:50:39.840
+and I have a side project
+946
+0:50:39.840 --> 0:50:41.840
+to try to actually understand
+947
+0:50:41.840 --> 0:50:44.840
+how the microcode was interpreted by the 4x
+948
+0:50:44.840 --> 0:50:46.840
+in such a way as to be able to play
+949
+0:50:46.840 --> 0:50:48.840
+some of the old 4x pieces,
+950
+0:50:48.840 --> 0:50:50.840
+which would make it possible
+951
+0:50:50.840 --> 0:50:52.840
+to make period performances of
+952
+0:50:52.840 --> 0:50:56.840
+Fleet Manoré music as it sounded back in 1987, say,
+953
+0:50:56.840 --> 0:51:01.840
+or maybe more interestingly to revive pieces of music
+954
+0:51:01.840 --> 0:51:03.840
+that exist on the 4x,
+955
+0:51:03.840 --> 0:51:07.840
+for which we might have the programs,
+956
+0:51:07.840 --> 0:51:10.840
+but for which we have no 4x to run it on.
+957
+0:51:10.840 --> 0:51:13.840
+And this is a thing,
+958
+0:51:13.840 --> 0:51:16.840
+so this is about archivability.
+959
+0:51:16.840 --> 0:51:18.840
+Sometimes a piece of hardware is important enough
+960
+0:51:18.840 --> 0:51:21.840
+that stuff that runs on it becomes archivable
+961
+0:51:21.840 --> 0:51:24.840
+because people make simulators for the thing.
+962
+0:51:24.840 --> 0:51:27.840
+This is true, for instance, of the Mac Plus,
+963
+0:51:27.840 --> 0:51:29.840
+you can run, or even the Commodore,
+964
+0:51:29.840 --> 0:51:31.840
+or MEGA and stuff like that.
+965
+0:51:31.840 --> 0:51:33.840
+You can run games that were written for those
+966
+0:51:33.840 --> 0:51:37.840
+extinct computers simply by emulating the computers
+967
+0:51:37.840 --> 0:51:39.840
+on a faster modern computer.
+968
+0:51:39.840 --> 0:51:41.840
+And that way you actually,
+969
+0:51:41.840 --> 0:51:45.840
+presumably, you get a way of running a thing
+970
+0:51:45.840 --> 0:51:48.840
+that is then permanent from then on out.
+971
+0:51:48.840 --> 0:51:52.840
+Actually, permanence depends on a couple,
+972
+0:51:52.840 --> 0:51:55.840
+or archivability depends on at least two things
+973
+0:51:55.840 --> 0:51:58.840
+that are important.
+974
+0:51:58.840 --> 0:52:00.840
+One is the hardware platform,
+975
+0:52:00.840 --> 0:52:05.840
+and that is not just the hardware that you need to
+976
+0:52:05.840 --> 0:52:08.840
+run the thing, but it's also the hardware
+977
+0:52:08.840 --> 0:52:11.840
+on which, or the storage medium on which you actually
+978
+0:52:11.840 --> 0:52:14.840
+stored all the stuff that you needed to be able to find.
+979
+0:52:14.840 --> 0:52:17.840
+And that's been, although it's stupid,
+980
+0:52:17.840 --> 0:52:19.840
+that's been a problem too.
+981
+0:52:19.840 --> 0:52:21.840
+So that's one thing that you need.
+982
+0:52:21.840 --> 0:52:25.840
+Another thing that you need is for the,
+983
+0:52:25.840 --> 0:52:28.840
+for software not to fall out of compatibility
+984
+0:52:28.840 --> 0:52:30.840
+with the past.
+985
+0:52:30.840 --> 0:52:35.840
+So a thing that happens constantly in the computer world
+986
+0:52:35.840 --> 0:52:40.840
+is operating systems get updated into new forms
+987
+0:52:40.840 --> 0:52:46.840
+that require that old programs be updated to.
+988
+0:52:46.840 --> 0:52:49.840
+And then if your piece of music relies on a program
+989
+0:52:49.840 --> 0:52:52.840
+that no longer runs on a modern operating system,
+990
+0:52:52.840 --> 0:52:55.840
+then you're kind of out of luck because then you will have
+991
+0:52:55.840 --> 0:52:58.840
+to find that old machine in order to be able to run your piece.
+992
+0:52:58.840 --> 0:53:01.840
+And then you could say, well, yeah,
+993
+0:53:01.840 --> 0:53:07.840
+I will just emulate a, let's say a 1995 vintage
+994
+0:53:07.840 --> 0:53:11.840
+Macintosh, which had a power PC processor and blah blah.
+995
+0:53:11.840 --> 0:53:14.840
+And you will probably find that that's not as easy to do
+996
+0:53:14.840 --> 0:53:16.840
+as it is to emulate, say, a 4x.
+997
+0:53:16.840 --> 0:53:18.840
+Because the 4x really is just a piece of hardware
+998
+0:53:18.840 --> 0:53:20.840
+for which we have all the software.
+999
+0:53:20.840 --> 0:53:28.840
+The, by 1995, or by 2005, especially,
+1000
+0:53:28.840 --> 0:53:33.840
+the situation was complicated enough that, well,
+1001
+0:53:33.840 --> 0:53:36.840
+to get a computer to run, you had to get the correct version
+1002
+0:53:36.840 --> 0:53:39.840
+of the operating system and the correct version of all the software
+1003
+0:53:39.840 --> 0:53:42.840
+and the correct version of the hardware all to work together.
+1004
+0:53:42.840 --> 0:53:48.840
+And that, if you worry about things like copy protection
+1005
+0:53:48.840 --> 0:53:51.840
+can become very hard to do.
+1006
+0:53:51.840 --> 0:53:54.840
+It's almost impossible to revive a copy protected program
+1007
+0:53:54.840 --> 0:53:56.840
+from another era.
+1008
+0:53:56.840 --> 0:53:59.840
+And in fact, there are legal issues too.
+1009
+0:53:59.840 --> 0:54:02.840
+When software goes out of print,
+1010
+0:54:02.840 --> 0:54:04.840
+you can't just copy it legally.
+1011
+0:54:04.840 --> 0:54:06.840
+You have to pirate it.
+1012
+0:54:06.840 --> 0:54:09.840
+And you don't have anywhere to go
+1013
+0:54:09.840 --> 0:54:13.840
+because the copyright owner might have fallen into bankruptcy.
+1014
+0:54:13.840 --> 0:54:16.840
+You might not be able to contact them.
+1015
+0:54:16.840 --> 0:54:20.840
+Or it might be copyrighted by a person who dies
+1016
+0:54:20.840 --> 0:54:23.840
+and the executor doesn't know how to deal with it and all that kind of stuff.
+1017
+0:54:23.840 --> 0:54:27.840
+Or you just might not ever be able to figure out who owns a thing.
+1018
+0:54:27.840 --> 0:54:34.840
+So, practically speaking, stuff from the 80s
+1019
+0:54:34.840 --> 0:54:38.840
+that ran on funky, doodle hardware is actually easier to archive
+1020
+0:54:38.840 --> 0:54:41.840
+than stuff that was programmed in something, well,
+1021
+0:54:41.840 --> 0:54:47.840
+let's just say some version of Macs from 1995 or 2000,
+1022
+0:54:47.840 --> 0:54:52.840
+where you might have a serious difficult to get in that version
+1023
+0:54:52.840 --> 0:54:55.840
+of Macs running again.
+1024
+0:54:55.840 --> 0:55:01.840
+And in fact, this is partly an advertisement for open source software in general
+1025
+0:55:01.840 --> 0:55:05.840
+because when software is open source, then theoretically,
+1026
+0:55:05.840 --> 0:55:09.840
+at least you can go back and grab the version of software
+1027
+0:55:09.840 --> 0:55:13.840
+that existed back in that time and run it on modern hardware.
+1028
+0:55:13.840 --> 0:55:18.840
+Even down to the operating system.
+1029
+0:55:18.840 --> 0:55:25.840
+Is that really true? It might be true. I'm not really sure if you can run 1995 vintage Linux
+1030
+0:55:25.840 --> 0:55:28.840
+all that easily on a modern PC.
+1031
+0:55:28.840 --> 0:55:31.840
+But you can at least have a hope of being able to do it.
+1032
+0:55:31.840 --> 0:55:35.840
+You can probably run a virtual machine now and actually get, say,
+1033
+0:55:35.840 --> 0:55:37.840
+95 vintage stuff to run.
+1034
+0:55:37.840 --> 0:55:46.840
+If you can get access to all the software and if it ran on a decently published CPU architecture
+1035
+0:55:46.840 --> 0:55:53.840
+and if there are no copyright issues or copy protection issues or whatnot.
+1036
+0:55:53.840 --> 0:55:59.840
+And this is one of the main desiderata in the design of pure data,
+1037
+0:55:59.840 --> 0:56:04.840
+in fact, is to make it possible to make archivalable electronic music pieces.
+1038
+0:56:04.840 --> 0:56:11.840
+And it's doing pretty well in the sense that so far you can still run patches
+1039
+0:56:11.840 --> 0:56:18.840
+that were designed in 1997, now, whatever that is, 25-ish, almost 25 years later.
+1040
+0:56:18.840 --> 0:56:27.840
+And that's partly because pure data is open source and it's also partly because pure data
+1041
+0:56:27.840 --> 0:56:32.840
+in its design avoids dependence on software packages of other sorts
+1042
+0:56:32.840 --> 0:56:36.840
+that might have fallen to obsoleteness.
+1043
+0:56:36.840 --> 0:56:42.840
+So in particular, the graphics interface and the audio interface and so on of PD
+1044
+0:56:42.840 --> 0:56:52.840
+have been pretty resilient to the changes in programming methodology for graphics programs and for audio programs.
+1045
+0:56:52.840 --> 0:56:56.840
+It's been partly luck and partly foresight.
+1046
+0:56:56.840 --> 0:57:00.840
+Okay, so that's an issue.
+1047
+0:57:00.840 --> 0:57:08.840
+The next thing, let's see, I'm running out of room, maybe I should just save this and move to a new window.
+1048
+0:57:08.840 --> 0:57:10.840
+So this is...
+1049
+0:57:10.840 --> 0:57:12.840
+Sure.
+1050
+0:57:12.840 --> 0:57:15.840
+And is there a cure even for this?
+1051
+0:57:15.840 --> 0:57:20.840
+What are the programming languages that forex and sandbox use?
+1052
+0:57:20.840 --> 0:57:22.840
+Oh boy, no, I didn't.
+1053
+0:57:22.840 --> 0:57:25.840
+Let's see.
+1054
+0:57:25.840 --> 0:57:30.840
+The quick answer is the forex was written in a microcode...
+1055
+0:57:30.840 --> 0:57:36.840
+Sorry, the forex was programmed in a microcode language called the forex patch language.
+1056
+0:57:36.840 --> 0:57:39.840
+It didn't have any other name but that.
+1057
+0:57:39.840 --> 0:57:46.840
+And if you're curious, I can show you some forex patch language maybe later because I'd have to go find it.
+1058
+0:57:46.840 --> 0:58:00.840
+The Sampson box was programmed in a... there was a software system software environment for the Sampson box called Musebox.
+1059
+0:58:00.840 --> 0:58:04.840
+And here, I'm operating by memory, I might be confusing things a little bit.
+1060
+0:58:04.840 --> 0:58:15.840
+But Musebox was a thing which was written in the language sale.
+1061
+0:58:15.840 --> 0:58:19.840
+So sale is a programming language in Musebox is the program that ran in it.
+1062
+0:58:19.840 --> 0:58:26.840
+But Musebox itself functions sort of as a programming language because you would program the Sampson box in Musebox.
+1063
+0:58:26.840 --> 0:58:37.840
+And sale is an acronym for the Stanford AI language.
+1064
+0:58:37.840 --> 0:58:40.840
+Oh, do you not see my screen?
+1065
+0:58:40.840 --> 0:58:45.840
+Yeah, I'm drawing... oh, you know what? Let's see.
+1066
+0:58:45.840 --> 0:58:52.840
+No, why am I not showing my screen?
+1067
+0:58:52.840 --> 0:58:59.840
+Okay, I have to do a thing which is...
+1068
+0:58:59.840 --> 0:59:02.840
+Oh, drag. Now I have to...
+1069
+0:59:02.840 --> 0:59:18.840
+Sorry, I had the screen on a different desktop and I noticed that if you can't like cancel, you have to go ahead and share something or else it will decide you didn't want to share anything ever.
+1070
+0:59:18.840 --> 0:59:21.840
+Okay, now I'm going to try again.
+1071
+0:59:21.840 --> 0:59:25.840
+Share that window and allow.
+1072
+0:59:25.840 --> 0:59:32.840
+Probably what happened was when I saved the file.
+1073
+0:59:32.840 --> 0:59:37.840
+I did a save as I think that is saved as.
+1074
+0:59:37.840 --> 0:59:42.840
+Oh, you know what? I can do multi-page things here.
+1075
+0:59:42.840 --> 0:59:45.840
+I'm going to do a little experiment here.
+1076
+0:59:45.840 --> 0:59:48.840
+But for right now, I'm just going to...
+1077
+0:59:48.840 --> 0:59:51.840
+I'm going to do a little experimenter to reshare.
+1078
+0:59:51.840 --> 0:59:58.840
+I'm just going to try to remember to reshare every time I make a new window.
+1079
+0:59:58.840 --> 1:00:02.840
+Okay, so now...
+1080
+1:00:02.840 --> 1:00:05.840
+Okay, so now...
+1081
+1:00:05.840 --> 1:00:09.840
+Okay, so next thing, plugability.
+1082
+1:00:09.840 --> 1:00:14.840
+Okay, so next thing, plugability.
+1083
+1:00:14.840 --> 1:00:23.840
+This is kind of stupid, but there's nothing you can say about plugability, but it's very stupid anyway.
+1084
+1:00:23.840 --> 1:00:28.840
+So plugability just means you can say about plugability.
+1085
+1:00:28.840 --> 1:00:33.840
+So plugability, so for instance, right now the way I'm doing this whole thing is I have...
+1086
+1:00:33.840 --> 1:00:43.840
+So for example, Jack, right now the way I'm doing this whole thing is an audioIO-jack manager, which is taking my mic, which is a audioIO-compining-a-manager data.
+1087
+1:00:43.840 --> 1:00:46.840
+So that is going to...
+1088
+1:00:46.840 --> 1:00:48.840
+Combining audioIO-data.
+1089
+1:00:48.840 --> 1:00:50.840
+By the way, this is going to...
+1090
+1:00:50.840 --> 1:00:51.840
+That is going to...
+1091
+1:00:51.840 --> 1:00:52.840
+...Pulse Audio.
+1092
+1:00:52.840 --> 1:00:53.840
+Which is the thing which...
+1093
+1:00:53.840 --> 1:00:54.840
+The browser knows about...
+1094
+1:00:54.840 --> 1:00:58.840
+...which is the thing that what I'm trying to do is...
+1095
+1:00:58.840 --> 1:01:01.840
+...make connections like this and also to the root screen recorder.
+1096
+1:01:01.840 --> 1:01:06.840
+So what I'm trying to do is make connections like this and also to the root screen recorder.
+1097
+1:01:06.840 --> 1:01:09.840
+And as you've probably seen, this isn't working.
+1098
+1:01:09.840 --> 1:01:13.840
+So I have another computer on which I have...
+1099
+1:01:13.840 --> 1:01:16.840
+So I have another computer on which I have another setup.
+1100
+1:01:16.840 --> 1:01:26.840
+So right now what's happening is that the screen that you're seeing here is being recorded on one computer.
+1101
+1:01:26.840 --> 1:01:31.840
+So plugability just refers to...
+1102
+1:01:31.840 --> 1:01:36.840
+...having a few things to have a few things working on the black box.
+1103
+1:01:36.840 --> 1:01:43.000
+have it having the ability to have it have inputs and outputs that box connect it in real time to other stuff
+1104
+1:01:43.560 --> 1:01:50.360
+um inputs and outputs that connect this was sort of assumed this was just in a basic assumption of life
+1105
+1:01:50.360 --> 1:01:56.600
+was sort of in the classical studio era which was part of the which was the analog days of the 1950s and 60s
+1106
+1:01:56.600 --> 1:02:02.600
+which was part of the early days of analog days of the European 50s and 60s which were the early days of the 1950s
+1107
+1:02:02.600 --> 1:02:09.640
+everything was just an analog a line-level analog connection because everything your studio just consists of a line-level analog
+1108
+1:02:09.640 --> 1:02:15.240
+like for instance a tape recorder and so your studio just consisted of a bunch of that was important to have two or three tape recorder
+1109
+1:02:15.240 --> 1:02:20.600
+and then you would have a nice oscillator that would be a box that was important and then if you wanted to make a sign and you would have an
+1110
+1:02:20.600 --> 1:02:25.760
+actually physically wired your oscillator and then if you wanted to make a sign you take a quarter and run and
+1111
+1:02:25.760 --> 1:02:36.400
+physically wired your oscillator and you had other stuff and then you could make different kinds of patches depending on the patch and you had other stuff and then you could make different kinds of patches
+1112
+1:02:36.400 --> 1:02:46.720
+there's also getting rid of all this because it's but kind of there's also there's also there's also this thing else
+1113
+1:02:46.720 --> 1:02:53.280
+there's also where for instance you're running able so able to make this software package where you get to where for instance you're running
+1114
+1:02:53.280 --> 1:03:01.040
+able so able to attract you everything's going on and each track has a sequence of track you can have a sequence of
+1115
+1:03:01.040 --> 1:03:07.360
+these tracks which has these things actually close running through you can't have a sequence you know your equalizer in the back
+1116
+1:03:07.360 --> 1:03:15.520
+pressure and whatever running through and then you're listening to it equalizer in your press and so these these things are usually in the form of VST plugins
+1117
+1:03:15.520 --> 1:03:30.720
+and this is this is a thing that did not well and this is this is a thing that this is a thing which has not really existed in a mature form
+1118
+1:03:30.720 --> 1:03:34.960
+although it's a thing primitive forms for for many years before the VST
+1119
+1:03:34.960 --> 1:03:48.160
+or something like that so for instance really by the time music now three came along there was a notion of unit generator by the time music three came along
+1120
+1:03:48.160 --> 1:03:56.080
+there was the notion of unit generator this is a term that I think was invented by Max Matthews who this is the first music
+1121
+1:03:56.080 --> 1:04:08.400
+term and I think so this is Max Matthews music three wrote the first music programs so this is so this is music and the idea to the unit generator was you would take the classical studio and the
+1122
+1:04:08.400 --> 1:04:26.320
+class of the oscillators filter oscillators way VCA's I don't know how you filter VCA and then you would have an invulnerator VCA's I don't know how you make a VCA
+1123
+1:04:26.320 --> 1:04:35.360
+this is stuff you would do in either classical studio or voltage control studio this is stuff you would do in either classical studio or voltage control studio
+1124
+1:04:35.360 --> 1:04:47.360
+this is a thing which which max Matthews then this is the thing which which Matt Matthews then what he did was he started to use things as unit generators and started writing
+1125
+1:04:47.360 --> 1:04:55.600
+what he did with bass language is what he would say instead of and started writing this thing like my knowledge is where you would say instead of VLT
+1126
+1:04:55.600 --> 1:05:13.840
+so this thing might be OS and then you would say something like a one OS and then you would say something like a one OS and then a two and then would be filter maybe some frequency a one a two and then filter a one
+1127
+1:05:13.840 --> 1:05:22.160
+and so a one in this case would be an audio signal which would be what was going down this one in this case would be an audio signal
+1128
+1:05:22.160 --> 1:05:35.200
+this would be what was going down this wire so this would be a text language to describe a so this would be a direct detect graph which that explains a boxes and they're indirect
+1129
+1:05:35.200 --> 1:05:44.720
+graph things of boxes and they're interconnections this has a lot of interesting ramifications when you do this digitally that did not exist
+1130
+1:05:44.720 --> 1:05:46.880
+This has a lot of analog ramifications on it.
+1131
+1:05:46.880 --> 1:05:48.720
+You do this digitally.
+1132
+1:05:48.720 --> 1:05:50.280
+Looking a little bit more analog,
+1133
+1:05:50.280 --> 1:05:53.680
+roughly at this, I should say the oscillator,
+1134
+1:05:53.680 --> 1:05:56.440
+a little filter, hopefully at these things.
+1135
+1:05:56.440 --> 1:05:58.880
+I should say this amount of the oscillator in the filter,
+1136
+1:05:58.880 --> 1:06:00.960
+this belongs to the classical state.
+1137
+1:06:00.960 --> 1:06:04.920
+This amount of patch, this belongs to the classical studio
+1138
+1:06:04.920 --> 1:06:09.800
+era, whereas the idea of an envelope generator
+1139
+1:06:09.800 --> 1:06:10.880
+with a voltage control.
+1140
+1:06:10.880 --> 1:06:13.160
+Whereas the idea of a voltage control here,
+1141
+1:06:13.160 --> 1:06:16.000
+an envelope generator with a voltage control,
+1142
+1:06:16.000 --> 1:06:17.920
+this is a voltage control here,
+1143
+1:06:17.920 --> 1:06:19.960
+or it's a control voltage, I should say.
+1144
+1:06:19.960 --> 1:06:22.400
+Well, that makes this thing a voltage control module.
+1145
+1:06:22.400 --> 1:06:24.320
+It's called the voltage control amplifier.
+1146
+1:06:24.320 --> 1:06:26.400
+Well, that makes this thing a voltage control
+1147
+1:06:26.400 --> 1:06:28.480
+module, just a voltage control amplifier.
+1148
+1:06:28.480 --> 1:06:33.360
+This, this, it actually belongs to the voltage control.
+1149
+1:06:33.360 --> 1:06:37.640
+And this is associated with the name some log.
+1150
+1:06:37.640 --> 1:06:40.920
+And this is associated with the name some log.
+1151
+1:06:40.920 --> 1:06:42.480
+This, I don't think, is really associated
+1152
+1:06:42.480 --> 1:06:45.840
+with any particular name, past, past, this.
+1153
+1:06:45.840 --> 1:06:48.480
+I don't think it's really associated with a shaft.
+1154
+1:06:48.480 --> 1:06:50.320
+Because the classical studio basically
+1155
+1:06:50.320 --> 1:06:52.880
+blew out of the shaft first part of the tape.
+1156
+1:06:52.880 --> 1:06:56.040
+Because the classical or actually vinyl experimentation
+1157
+1:06:56.040 --> 1:06:58.760
+that Chef Feref famously did in 1948,
+1158
+1:06:58.760 --> 1:06:59.400
+and the French radio.
+1159
+1:06:59.400 --> 1:07:01.840
+vinyl experimentation that's shaped Chef Feref famously
+1160
+1:07:01.840 --> 1:07:03.240
+in 1948.
+1161
+1:07:03.240 --> 1:07:03.840
+Oh, yeah.
+1162
+1:07:03.840 --> 1:07:07.600
+So this is, this is really coming into its own 50s.
+1163
+1:07:07.600 --> 1:07:10.680
+Oh, yes, so this is, this is really coming into its own
+1164
+1:07:10.680 --> 1:07:11.600
+of the 50s.
+1165
+1:07:11.600 --> 1:07:15.240
+And if you go looking at pictures of old stuff,
+1166
+1:07:15.240 --> 1:07:17.480
+the classical studio looks a lot different from the old
+1167
+1:07:17.480 --> 1:07:18.280
+central thing.
+1168
+1:07:18.280 --> 1:07:21.520
+Because by the time a classical studio looks a lot different
+1169
+1:07:21.520 --> 1:07:21.720
+from the old.
+1170
+1:07:21.720 --> 1:07:23.200
+By the time this was going on, people
+1171
+1:07:23.200 --> 1:07:26.000
+were actually building entire voltage control studios.
+1172
+1:07:26.000 --> 1:07:28.160
+And so I want this to go on and it would be called
+1173
+1:07:28.160 --> 1:07:29.160
+matchable synthesis.
+1174
+1:07:29.160 --> 1:07:31.760
+I want to control studios inside one console.
+1175
+1:07:31.760 --> 1:07:34.000
+And those are much more pictures on the studio.
+1176
+1:07:34.000 --> 1:07:36.320
+See pictures of those a lot more often.
+1177
+1:07:36.320 --> 1:07:38.320
+And those are much more pictures on the studio.
+1178
+1:07:38.320 --> 1:07:41.800
+See pictures on this a lot more often.
+1179
+1:07:41.800 --> 1:07:44.400
+So at any rate, this is a note.
+1180
+1:07:44.400 --> 1:07:46.000
+This is a kind of plugability.
+1181
+1:07:46.000 --> 1:07:48.720
+And so at any rate, this is interestingly enough,
+1182
+1:07:48.720 --> 1:07:52.920
+plugability kind of plug means, means the plugs are
+1183
+1:07:52.920 --> 1:07:56.480
+plugability wires into inlets and outboard jacks.
+1184
+1:07:56.480 --> 1:07:59.760
+Plugged out, plugging wires and physical pieces of hardware.
+1185
+1:07:59.760 --> 1:08:00.680
+Inlets and outboard jacks.
+1186
+1:08:00.680 --> 1:08:02.000
+Here when you say plug in, you're actually
+1187
+1:08:02.000 --> 1:08:05.000
+talking about plugging the whole VST thing.
+1188
+1:08:05.000 --> 1:08:06.800
+When you say plug in your slot.
+1189
+1:08:06.800 --> 1:08:08.960
+In other words, you should imagine taking something
+1190
+1:08:08.960 --> 1:08:10.920
+like the filter and a slot.
+1191
+1:08:10.920 --> 1:08:13.120
+Picking the filter up, you plug in into another larger
+1192
+1:08:13.120 --> 1:08:14.120
+piece of hardware.
+1193
+1:08:14.120 --> 1:08:17.360
+And picking the filter up and plugging into a large part.
+1194
+1:08:17.360 --> 1:08:23.240
+But either those things are plug-in, some things are.
+1195
+1:08:23.240 --> 1:08:25.040
+What that really means is that you're
+1196
+1:08:25.040 --> 1:08:28.200
+really taking the same piece of code in some sense,
+1197
+1:08:28.200 --> 1:08:29.360
+the same programming.
+1198
+1:08:29.360 --> 1:08:30.440
+What that really means is that you're able to take
+1199
+1:08:30.440 --> 1:08:32.720
+the same piece of software in some sense.
+1200
+1:08:32.720 --> 1:08:37.240
+And the same programming uses it in configurations
+1201
+1:08:37.240 --> 1:08:39.040
+that you control.
+1202
+1:08:39.040 --> 1:08:41.960
+So the configuration of these boxes is
+1203
+1:08:41.960 --> 1:08:44.200
+except that the person makes no music.
+1204
+1:08:44.200 --> 1:08:47.360
+Whereas the design of the boxes was done by someone else.
+1205
+1:08:47.360 --> 1:08:48.760
+Person making and music.
+1206
+1:08:48.760 --> 1:08:52.320
+Whereas the design of the box is a bit of specialization
+1207
+1:08:52.320 --> 1:08:54.720
+of a task specialization that is made at a very
+1208
+1:08:54.720 --> 1:08:55.760
+deal of electronic music.
+1209
+1:08:55.760 --> 1:08:59.840
+Specialization the idea that a task person can design a box.
+1210
+1:08:59.840 --> 1:09:02.000
+And other person can just use the box as a tool.
+1211
+1:09:02.000 --> 1:09:04.400
+Or some design without necessarily having.
+1212
+1:09:04.400 --> 1:09:06.120
+And other person having had to learn that they would have
+1213
+1:09:06.120 --> 1:09:09.320
+to do a little build the box without necessarily having
+1214
+1:09:09.320 --> 1:09:11.320
+had to learn what they would have to do in our whole.
+1215
+1:09:11.320 --> 1:09:16.440
+So plug-ability is another thing that you could say as well.
+1216
+1:09:16.440 --> 1:09:18.200
+This is a thing, but this is actually
+1217
+1:09:18.200 --> 1:09:20.800
+a particular kind of, another thing that you could say as well.
+1218
+1:09:20.800 --> 1:09:22.600
+This is a thing, but this is actually
+1219
+1:09:22.600 --> 1:09:26.520
+a particular kind of reusability.
+1220
+1:09:26.520 --> 1:09:29.640
+And people in the software world use reusability a lot
+1221
+1:09:29.640 --> 1:09:31.000
+as a term.
+1222
+1:09:31.000 --> 1:09:34.000
+And people in the software world use reusability a lot
+1223
+1:09:34.000 --> 1:09:38.360
+as a pluggability means something that is plugable
+1224
+1:09:38.360 --> 1:09:40.960
+is reusable, but is reusability since being
+1225
+1:09:40.960 --> 1:09:44.760
+able to plug it into the music like this, which
+1226
+1:09:44.760 --> 1:09:48.040
+implies a sort of a flow of data between the objects
+1227
+1:09:48.040 --> 1:09:50.560
+in a way that implies in a topology
+1228
+1:09:50.560 --> 1:09:53.800
+that you've created that look at and understand.
+1229
+1:09:53.800 --> 1:09:57.680
+A topologist who is connected to that.
+1230
+1:09:57.680 --> 1:10:00.960
+So usability in general code is often
+1231
+1:10:00.960 --> 1:10:03.720
+made reusable in ways that are not just
+1232
+1:10:03.720 --> 1:10:05.760
+in general by connecting these two things together.
+1233
+1:10:05.760 --> 1:10:08.280
+It's like a close that are not just
+1234
+1:10:08.280 --> 1:10:10.160
+by connecting two things together.
+1235
+1:10:10.160 --> 1:10:12.640
+There are all sorts of modes of abstraction,
+1236
+1:10:12.640 --> 1:10:13.800
+which you can go into.
+1237
+1:10:13.800 --> 1:10:16.200
+But some are going to be paradigm in a whole bunch
+1238
+1:10:16.200 --> 1:10:18.160
+of abstraction and context.
+1239
+1:10:18.160 --> 1:10:19.680
+And it can get a great deal more abstract,
+1240
+1:10:19.680 --> 1:10:21.760
+herodime, and all of the business of just plugging stuff
+1241
+1:10:21.760 --> 1:10:22.560
+together.
+1242
+1:10:22.560 --> 1:10:24.280
+And it can get a great deal more abstract.
+1243
+1:10:24.280 --> 1:10:27.160
+Just this business of just plugging stuff together
+1244
+1:10:27.160 --> 1:10:30.520
+as if you were in a class.
+1245
+1:10:30.520 --> 1:10:37.080
+The fact that the first off, music 3, the fact that this
+1246
+1:10:37.080 --> 1:10:38.520
+is not real music 3 code.
+1247
+1:10:38.520 --> 1:10:41.000
+This is just sort of what it looks like.
+1248
+1:10:41.000 --> 1:10:42.880
+Music 3, this is not real music 3 code.
+1249
+1:10:42.880 --> 1:10:46.960
+This is just a computer music 3, what are you saying?
+1250
+1:10:46.960 --> 1:10:50.200
+Computer reification is a kind of a hudor of this kind
+1251
+1:10:50.200 --> 1:10:50.880
+of a connection.
+1252
+1:10:50.880 --> 1:10:51.400
+What are you saying?
+1253
+1:10:51.400 --> 1:10:53.680
+Computer reification of this kind of a pre-existing
+1254
+1:10:53.680 --> 1:10:55.520
+because of this kind of a connection.
+1255
+1:10:55.520 --> 1:10:58.040
+But this comes into its own when voltage control
+1256
+1:10:58.040 --> 1:10:58.680
+is a thing.
+1257
+1:10:58.680 --> 1:11:01.240
+Because it's actually, when this comes into form,
+1258
+1:11:01.240 --> 1:11:03.120
+it's going to be able to do this control stuff when you can
+1259
+1:11:03.120 --> 1:11:05.280
+make it use things as controls.
+1260
+1:11:05.280 --> 1:11:06.480
+It's going to be able to do this.
+1261
+1:11:06.480 --> 1:11:09.720
+So in this case, we're making 440 hurdles
+1262
+1:11:09.720 --> 1:11:10.880
+that we just gave this oscillator.
+1263
+1:11:10.880 --> 1:11:12.640
+So in this case, this means 440 hurdles.
+1264
+1:11:12.640 --> 1:11:14.480
+Or this could be in order to the audio
+1265
+1:11:14.480 --> 1:11:15.720
+gave this oscillator.
+1266
+1:11:15.720 --> 1:11:17.120
+And if it were in order to the audio signal,
+1267
+1:11:17.120 --> 1:11:18.920
+this could be another oscillator.
+1268
+1:11:18.920 --> 1:11:21.120
+It would be controlled directly by some other module
+1269
+1:11:21.120 --> 1:11:23.520
+signal that we place to higher off the code.
+1270
+1:11:23.520 --> 1:11:25.480
+It would be controlled directly by some other module
+1271
+1:11:25.480 --> 1:11:26.480
+that we place to higher off.
+1272
+1:11:26.480 --> 1:11:29.280
+And this would then be what would class O
+1273
+1:11:29.280 --> 1:11:31.040
+be called voltage control.
+1274
+1:11:31.040 --> 1:11:33.520
+And this would then be what would class O
+1275
+1:11:33.520 --> 1:11:35.280
+signal that some slippage of terminology
+1276
+1:11:35.280 --> 1:11:36.040
+will watch out for.
+1277
+1:11:36.040 --> 1:11:39.000
+Because this actually would be an audio signal, some slippage
+1278
+1:11:39.000 --> 1:11:43.240
+of even though the free-sac should be an added to a VCO,
+1279
+1:11:43.240 --> 1:11:46.000
+or EVCO, which is what I drew here, frequency that you
+1280
+1:11:46.000 --> 1:11:46.520
+would use.
+1281
+1:11:46.520 --> 1:11:48.520
+Those things are thought of as control signals
+1282
+1:11:48.520 --> 1:11:50.080
+in the analog world here.
+1283
+1:11:50.080 --> 1:11:52.840
+And those things are thought of as using three signals
+1284
+1:11:52.840 --> 1:11:53.000
+in the analog world.
+1285
+1:11:53.000 --> 1:11:55.480
+There's no distinction between here and control signal
+1286
+1:11:55.480 --> 1:11:56.320
+on an audio signal.
+1287
+1:11:56.320 --> 1:11:57.360
+These are three.
+1288
+1:11:57.360 --> 1:11:58.160
+There's no distinction.
+1289
+1:11:58.160 --> 1:12:00.760
+So everything is controlled in a non-sense voltage
+1290
+1:12:00.760 --> 1:12:02.120
+controllable at that point.
+1291
+1:12:02.120 --> 1:12:04.800
+And so everything is in some sense
+1292
+1:12:04.800 --> 1:12:05.600
+voltage controlable.
+1293
+1:12:05.600 --> 1:12:10.360
+One thing that I have, one thing I don't know.
+1294
+1:12:10.360 --> 1:12:13.160
+And I think that I have gone back and forth about this.
+1295
+1:12:13.160 --> 1:12:15.360
+But and I think people do actually know the answers to this.
+1296
+1:12:15.360 --> 1:12:17.520
+And I think the simple gone back and forth about this.
+1297
+1:12:17.520 --> 1:12:19.840
+Which of these two really actually have the answers?
+1298
+1:12:19.840 --> 1:12:21.680
+So music three was about 19.
+1299
+1:12:21.680 --> 1:12:24.160
+Which of these two really happened first?
+1300
+1:12:24.160 --> 1:12:26.360
+So the music three was about 19.
+1301
+1:12:26.360 --> 1:12:27.280
+Two.
+1302
+1:12:27.280 --> 1:12:31.680
+The first modular mode hit the mark.
+1303
+1:12:31.680 --> 1:12:36.120
+There's not first sure modular mode three hit the mark it.
+1304
+1:12:36.120 --> 1:12:38.480
+Now, dead sure, but around it might be that mode
+1305
+1:12:38.480 --> 1:12:40.520
+actually got some ideas from math.
+1306
+1:12:40.520 --> 1:12:42.160
+Now, or it might be that math, he's got some ideas.
+1307
+1:12:42.160 --> 1:12:43.680
+It might be that mode actually got some ideas from math.
+1308
+1:12:43.680 --> 1:12:45.000
+It's not on the West Coast.
+1309
+1:12:45.000 --> 1:12:46.000
+People are often in the West Coast.
+1310
+1:12:46.000 --> 1:12:47.000
+And just he's got some.
+1311
+1:12:47.000 --> 1:12:47.520
+So mode.
+1312
+1:12:47.520 --> 1:12:48.360
+And that just happened.
+1313
+1:12:48.360 --> 1:12:49.360
+It was out of the West Coast.
+1314
+1:12:49.360 --> 1:12:51.360
+And he was often in the West Coast.
+1315
+1:12:51.360 --> 1:12:52.520
+Or it could be that mode.
+1316
+1:12:52.520 --> 1:12:55.880
+And Matthews were all looking back at the time.
+1317
+1:12:55.880 --> 1:12:58.120
+Or it could be the mode and realizing that.
+1318
+1:12:58.120 --> 1:12:59.680
+And Matthews were all looking back.
+1319
+1:12:59.680 --> 1:13:01.880
+Where here you had a knob on NOSLE,
+1320
+1:13:01.880 --> 1:13:02.880
+realizing that.
+1321
+1:13:02.880 --> 1:13:03.880
+And that.
+1322
+1:13:03.880 --> 1:13:06.200
+Where in here you had a knob that could be controlled
+1323
+1:13:06.200 --> 1:13:09.240
+either by or voltage or by audio city.
+1324
+1:13:09.240 --> 1:13:14.480
+So anyway, at some point or the development of a new way,
+1325
+1:13:14.480 --> 1:13:17.440
+it's controlled modules by the mode
+1326
+1:13:17.440 --> 1:13:19.320
+and the development of roughly at the same time
+1327
+1:13:19.320 --> 1:13:22.640
+as controlled modules of software.
+1328
+1:13:22.640 --> 1:13:25.200
+And this is roughly the same time as the music N
+1329
+1:13:25.200 --> 1:13:27.600
+and the sound list.
+1330
+1:13:27.600 --> 1:13:31.360
+This is a music 3, and the music N would be a generalization
+1331
+1:13:31.360 --> 1:13:31.960
+of that.
+1332
+1:13:31.960 --> 1:13:34.480
+This is a music 3, and the music N would be a-
+1333
+1:13:34.480 --> 1:13:35.480
+People would be a-
+1334
+1:13:35.480 --> 1:13:38.840
+People did call me, did regard music N.
+1335
+1:13:38.840 --> 1:13:42.960
+People did call me, did regard music N.
+1336
+1:13:42.960 --> 1:13:44.400
+But you can put this in quotes.
+1337
+1:13:44.400 --> 1:13:47.040
+But this is a term that people use.
+1338
+1:13:47.040 --> 1:13:49.160
+This is a subset of what's called
+1339
+1:13:49.160 --> 1:13:50.000
+softwares synthesis.
+1340
+1:13:50.000 --> 1:13:51.400
+This is a term that's used.
+1341
+1:13:51.400 --> 1:13:57.040
+This is a subset of what's called softwares synthesis.
+1342
+1:13:57.040 --> 1:14:01.400
+Another word for this stuff is music.
+1343
+1:14:01.400 --> 1:14:05.680
+Another word for this stuff is music.
+1344
+1:14:05.680 --> 1:14:08.160
+I think I'm just giving this term the wrong.
+1345
+1:14:08.160 --> 1:14:12.520
+But music compiler, I think I'm just giving this term the wrong.
+1346
+1:14:12.520 --> 1:14:17.600
+But this is a reference to the fact that when you-
+1347
+1:14:17.600 --> 1:14:21.360
+This is a compiler compiler is a thing which takes-
+1348
+1:14:21.360 --> 1:14:25.200
+When code, like C code, this one turns it into a binary,
+1349
+1:14:25.200 --> 1:14:28.160
+which is a code, which is a thing that you could run,
+1350
+1:14:28.160 --> 1:14:29.760
+which actually runs the binary, which is-
+1351
+1:14:29.760 --> 1:14:31.840
+So here are music compilers, a thing where you write
+1352
+1:14:31.840 --> 1:14:34.200
+out the instructions and runs the text.
+1353
+1:14:34.200 --> 1:14:35.240
+So here are music compilers.
+1354
+1:14:35.240 --> 1:14:37.760
+And the music compiler has us out with the binary,
+1355
+1:14:37.760 --> 1:14:39.600
+which is text, will sound file.
+1356
+1:14:39.600 --> 1:14:42.160
+And the music compiler has us out with the binary,
+1357
+1:14:42.160 --> 1:14:43.640
+which is the actual sound file.
+1358
+1:14:43.640 --> 1:14:47.320
+And this is all done by batch processing.
+1359
+1:14:47.320 --> 1:14:52.320
+And this is all done by batch processing.
+1360
+1:14:52.320 --> 1:14:53.320
+Just to return back to-
+1361
+1:14:53.320 --> 1:14:55.520
+Now, where do we go?
+1362
+1:14:55.520 --> 1:14:57.040
+I think-
+1363
+1:14:57.040 --> 1:14:58.040
+OK.
+1364
+1:14:58.040 --> 1:15:00.160
+I'm going to just get us to the-
+1365
+1:15:00.160 --> 1:15:02.680
+I'm going to just run quickly over the last couple of terms
+1366
+1:15:02.680 --> 1:15:03.280
+and then-
+1367
+1:15:03.280 --> 1:15:04.400
+Just get us to call a break.
+1368
+1:15:04.400 --> 1:15:05.440
+And then-
+1369
+1:15:05.440 --> 1:15:09.840
+So the way I'm going to run these classes is going to be-
+1370
+1:15:09.840 --> 1:15:11.440
+So the A is going to be concepts.
+1371
+1:15:11.440 --> 1:15:13.720
+So we're going to run these classes is going to be-
+1372
+1:15:13.720 --> 1:15:14.560
+And B is going to-
+1373
+1:15:14.560 --> 1:15:16.640
+A is going to be concept-
+1374
+1:15:16.640 --> 1:15:19.200
+software or PD code.
+1375
+1:15:19.200 --> 1:15:21.520
+So what I'm going to be trying to do is explain in the B's
+1376
+1:15:21.520 --> 1:15:25.480
+the PD code that corresponds to the concept that I'm showing you today.
+1377
+1:15:25.480 --> 1:15:27.120
+This will-
+1378
+1:15:27.120 --> 1:15:30.880
+This will fail as I learned on a K outline because in fact,
+1379
+1:15:30.880 --> 1:15:34.600
+the PD code isn't fair organized in a way that-
+1380
+1:15:34.600 --> 1:15:35.600
+That you could-
+1381
+1:15:35.600 --> 1:15:36.600
+PD code isn't organized-
+1382
+1:15:36.600 --> 1:15:37.600
+Organize a class in-
+1383
+1:15:37.600 --> 1:15:42.200
+In other words, it's not the case that the code starts in one place
+1384
+1:15:42.200 --> 1:15:45.000
+and goes in a linear fashion until you get to the end.
+1385
+1:15:45.000 --> 1:15:47.640
+And so it's going to be impossible to make the A's and the B's
+1386
+1:15:47.640 --> 1:15:49.360
+actually line up terribly well.
+1387
+1:15:49.360 --> 1:15:50.880
+And so it's going to be impossible-
+1388
+1:15:50.880 --> 1:15:54.200
+I can get them to partially line up, which is what I've been trying to do now.
+1389
+1:15:54.200 --> 1:15:55.200
+But-
+1390
+1:15:55.200 --> 1:15:57.360
+I can get them to partially line up.
+1391
+1:15:57.360 --> 1:15:59.360
+Next thing I have to say is this-
+1392
+1:15:59.360 --> 1:16:00.360
+Right.
+1393
+1:16:00.360 --> 1:16:02.360
+And-
+1394
+1:16:02.360 --> 1:16:04.960
+Next thing I have to process is-
+1395
+1:16:04.960 --> 1:16:06.440
+When you load those-
+1396
+1:16:06.440 --> 1:16:07.440
+In-
+1397
+1:16:07.440 --> 1:16:08.440
+In-
+1398
+1:16:08.440 --> 1:16:09.440
+In-
+1399
+1:16:09.440 --> 1:16:10.440
+In-
+1400
+1:16:10.440 --> 1:16:11.440
+In-
+1401
+1:16:11.440 --> 1:16:12.440
+In-
+1402
+1:16:12.440 --> 1:16:13.440
+In-
+1403
+1:16:13.440 --> 1:16:14.440
+In-
+1404
+1:16:14.440 --> 1:16:16.200
+Now for the folder content had a connection to the code.
+1405
+1:16:16.200 --> 1:16:17.720
+Now for the ST 자� here it says-
+1406
+1:16:17.720 --> 1:16:19.040
+Ah!
+1407
+1:16:19.040 --> 1:16:22.400
+Okay so that was the tab form of that.
+1408
+1:16:22.400 --> 1:16:23.640
+Ah, and-
+1409
+1:16:23.640 --> 1:16:24.640
+Well okay.
+1410
+1:16:24.640 --> 1:16:28.640
+Only one person could be running a job on the computer at the same time.
+1411
+1:16:28.640 --> 1:16:30.640
+Only one person could be running a job on the computer.
+1412
+1:16:30.640 --> 1:16:33.640
+These days we have what are called operating systems.
+1413
+1:16:33.640 --> 1:16:37.640
+And operating systems can be thought of as a way to hold underneath.
+1414
+1:16:37.640 --> 1:16:42.640
+And operating systems can be thought of as a way to draw underneath.
+1415
+1:16:42.640 --> 1:16:47.640
+In such a way that you can have a whole bunch of programs running on this operating system.
+1416
+1:16:47.640 --> 1:16:49.640
+And they can switch to have their own computer.
+1417
+1:16:49.640 --> 1:16:55.640
+So the operating system is kind of a hack to take a computer and pretend it says many computers.
+1418
+1:16:55.640 --> 1:16:58.640
+So the operating system is kind of a hack to draw.
+1419
+1:16:58.640 --> 1:17:02.640
+And this is worthwhile because if the jobs are interactive in nature,
+1420
+1:17:02.640 --> 1:17:06.640
+and you want to be able to take one job and have it wait for user input,
+1421
+1:17:06.640 --> 1:17:09.640
+you want to be a while and not have the computer be idled,
+1422
+1:17:09.640 --> 1:17:14.640
+which is the computer has other places of software that aren't waiting for the computer to be run in the meantime.
+1423
+1:17:14.640 --> 1:17:16.640
+That's actually not a real-time paradigm.
+1424
+1:17:16.640 --> 1:17:19.640
+That's called TimeShare.
+1425
+1:17:19.640 --> 1:17:22.640
+And it's actually not a real-time paradigm.
+1426
+1:17:22.640 --> 1:17:25.640
+And it's sometimes hard to share with real-time programs.
+1427
+1:17:25.640 --> 1:17:28.640
+And sometimes hard to each reconcile that with real-time.
+1428
+1:17:28.640 --> 1:17:31.640
+So when your program actually wants to talk to, say,
+1429
+1:17:31.640 --> 1:17:35.640
+when your program actually wants to talk to on microphone,
+1430
+1:17:35.640 --> 1:17:38.640
+the audio system,
+1431
+1:17:38.640 --> 1:17:40.640
+the AC, the strong microphone,
+1432
+1:17:40.640 --> 1:17:43.640
+which sends stuff into the computer's memory,
+1433
+1:17:43.640 --> 1:17:46.640
+how it comes to the DAC, which sends stuff into the AC,
+1434
+1:17:46.640 --> 1:17:48.640
+you just want it to be out of hardware,
+1435
+1:17:48.640 --> 1:17:49.640
+how it comes to the DAC.
+1436
+1:17:49.640 --> 1:17:51.640
+And the speaker actually uses the AC.
+1437
+1:17:51.640 --> 1:17:53.640
+What really is happening is you're not,
+1438
+1:17:53.640 --> 1:17:55.640
+and then the AC isn't talking to you.
+1439
+1:17:55.640 --> 1:17:57.640
+What really is happening is you're not,
+1440
+1:17:57.640 --> 1:17:59.640
+the AC isn't talking to you.
+1441
+1:17:59.640 --> 1:18:01.640
+This is what it would look like on the 4X.
+1442
+1:18:01.640 --> 1:18:04.640
+But instead the AC is talking to the operating system,
+1443
+1:18:04.640 --> 1:18:06.640
+which is what it looks like on the 4X.
+1444
+1:18:06.640 --> 1:18:08.640
+But instead the AC is talking to you.
+1445
+1:18:08.640 --> 1:18:09.640
+The operating system,
+1446
+1:18:09.640 --> 1:18:10.640
+the operating system,
+1447
+1:18:10.640 --> 1:18:13.640
+and the whole of other operating systems
+1448
+1:18:13.640 --> 1:18:20.640
+have been created on the first bullet box.
+1449
+1:18:20.640 --> 1:18:24.640
+And what we hear about it,
+1450
+1:18:24.640 --> 1:18:32.640
+on PC,
+1451
+1:18:32.640 --> 1:18:35.160
+we hear these pre-concentrationdated,
+1452
+1:18:35.160 --> 1:18:38.560
+and your program will be in front of you.
+1453
+1:18:38.560 --> 1:18:44.880
+see what the operating system actually adds latency. So the
+1454
+1:18:44.880 --> 1:18:49.480
+other latency is added by the fact that there is storage here by the
+1455
+1:18:49.480 --> 1:18:53.240
+latency in which it is like the fact there is the storage coming in and
+1456
+1:18:53.240 --> 1:18:57.080
+queues samples that are needed to go out and I'll draw other
+1457
+1:18:57.080 --> 1:19:00.760
+pictures later than show that in a great detail because it's worth knowing
+1458
+1:19:00.760 --> 1:19:06.400
+much more about what that is. So operating systems are your friend because
+1459
+1:19:06.400 --> 1:19:09.920
+it makes it possible to actually use the pauses with the current stacks of
+1460
+1:19:09.920 --> 1:19:13.640
+cars around but they're also your enemy because they are between you and
+1461
+1:19:13.640 --> 1:19:17.960
+the real world. But they're also your enemy because they are between you and
+1462
+1:19:17.960 --> 1:19:21.960
+the real world. How you interface with the operating system is in other
+1463
+1:19:21.960 --> 1:19:25.680
+words by what how you are facing the operating you as a program talk to the
+1464
+1:19:25.680 --> 1:19:30.480
+operating system. By what means you as well as the operating system
+1465
+1:19:30.480 --> 1:19:34.240
+interface or it's also perhaps a bunch of APIs that have the
+1466
+1:19:34.240 --> 1:19:38.760
+operating system interface or also programming interfaces. And those are
+1467
+1:19:38.760 --> 1:19:43.480
+things which you have to then deal with in order to figure out those are things
+1468
+1:19:43.480 --> 1:19:47.280
+which you have to audio into out of your program and also what are
+1469
+1:19:47.280 --> 1:19:52.120
+what are whatever other controls are displayed. And also what are what are
+1470
+1:19:52.120 --> 1:19:55.680
+what are what are what are that's a thing that's that's the OS interface to worry
+1471
+1:19:55.680 --> 1:19:59.600
+about. So that's a thing that's and I'm just writing that down because
+1472
+1:19:59.600 --> 1:20:04.200
+every piece of at least every piece that isn't running on raw hardware
+1473
+1:20:04.200 --> 1:20:07.520
+every piece of software that isn't running on raw hardware has to deal with
+1474
+1:20:07.520 --> 1:20:10.360
+and know it's interface instead of dealing with the hard software that isn't
+1475
+1:20:10.360 --> 1:20:14.440
+running on raw hardware. And finally there's the issue of graphical and text
+1476
+1:20:14.440 --> 1:20:19.880
+environments which is the issue of whether you are coding something like this
+1477
+1:20:19.880 --> 1:20:24.040
+which is again the issue or whether you are building something like this
+1478
+1:20:24.040 --> 1:20:28.720
+which looks like a patch or you're in the way I've drawn it makes it look like
+1479
+1:20:28.720 --> 1:20:32.400
+you'd much rather be doing music in because it's the way I've drawn it makes
+1480
+1:20:32.400 --> 1:20:37.120
+it look like you're in fact doing music in a lot of ways that is a lot cleaner
+1481
+1:20:37.120 --> 1:20:41.080
+than any any any graphical interface would be. In a lot of ways that is a lot
+1482
+1:20:41.080 --> 1:20:46.720
+so it's worth thinking about the and the ramifications. We're thinking about
+1483
+1:20:46.720 --> 1:20:51.160
+both negative and positive of graphical programming versus text program.
+1484
+1:20:51.160 --> 1:20:56.560
+Both negative and positive of graphical programming versus text programming.
+1485
+1:20:56.560 --> 1:21:02.360
+So to make a very simple example if you wanted to if you wanted to sound to do
+1486
+1:21:02.360 --> 1:21:06.400
+it. So to make a very simple example if you wanted to that's much easier to
+1487
+1:21:06.400 --> 1:21:10.920
+express graphically than it is to express textually. That's much easier to but
+1488
+1:21:10.920 --> 1:21:20.920
+if you want to do this. But if you want to do this. Sorry that's much easier
+1489
+1:21:20.920 --> 1:21:24.840
+described in text than it is in a picture. Sorry. Count to a hundred. That's
+1490
+1:21:24.840 --> 1:21:28.440
+much easier. There's a picture for it. It's a thing that you can easily describe
+1491
+1:21:28.440 --> 1:21:32.960
+in text. Whereas connect my oscillator to my speaker. Please describe in
+1492
+1:21:32.960 --> 1:21:37.200
+text. Whereas that's the thing. I'll say that is much easier to describe
+1493
+1:21:37.200 --> 1:21:41.400
+graphically than textually. That's the thing. Well, it's much easier. Maybe
+1494
+1:21:41.400 --> 1:21:45.760
+maybe not because again you get quickly into these situations and and maybe
+1495
+1:21:45.760 --> 1:21:49.640
+actually prefer to do that. Again you get quickly into these situations and and
+1496
+1:21:49.640 --> 1:21:53.480
+maybe actually prefer to be doing that. On the other hand people think much more
+1497
+1:21:53.480 --> 1:21:56.680
+readily in graphical terms than in textural terms. On the other hand they're
+1498
+1:21:56.680 --> 1:22:01.840
+thinking about passion is thinking about processing signal flow. And so
+1499
+1:22:01.840 --> 1:22:06.840
+frequently there's going to be some kind of a boundary between what aspect of
+1500
+1:22:06.840 --> 1:22:09.920
+what you're doing is graphical and what's the basic which is a boundary between
+1501
+1:22:09.920 --> 1:22:15.280
+and the management of that boundary design that is and the management of a
+1502
+1:22:15.280 --> 1:22:20.880
+boundary thing that you have to get under control. You're thinking that you
+1503
+1:22:20.880 --> 1:22:25.240
+have to a piece of music software. That's actually true of real time software
+1504
+1:22:25.240 --> 1:22:28.080
+but it's true of music software in general. Actually we have really
+1505
+1:22:28.080 --> 1:22:32.880
+a lot of graphical versus text slash procedural general. You really have to
+1506
+1:22:32.880 --> 1:22:38.440
+describe things. Text slash procedural way of describing because procedures
+1507
+1:22:38.440 --> 1:22:44.880
+are not well done in graphics. Okay because procedures are not well done. It's 80
+1508
+1:22:44.880 --> 1:22:49.600
+minutes in even if we count the 20 five or so minutes that it's 80 minutes in
+1509
+1:22:49.600 --> 1:22:57.800
+the audience. So I'm going to take a 15 minute break and we're just going at
+1510
+1:22:57.800 --> 1:23:05.960
+16 o'clock or 15 o'clock and 4 o'clock PM. Maybe I will have 4 o'clock. Actually I'm
+1511
+1:23:05.960 --> 1:23:09.240
+not going to try to touch anything. I'm just asking what it is. Maybe I will have
+1512
+1:23:09.240 --> 1:23:19.880
+actually I'm not going to try to touch anything. I think that's okay. I had a
+1513
+1:23:19.880 --> 1:23:26.720
+question. Yeah. I guess I was like trying to know your perspective on say you
+1514
+1:23:26.720 --> 1:23:34.920
+took you managed to get a pv patch to become an executable. Then you go
+1515
+1:23:34.920 --> 1:23:40.600
+around into the issue of eventually the CPU that's used to run that executable
+1516
+1:23:40.600 --> 1:23:47.760
+might be changed. And then you're not going to find the hardware that actually runs
+1517
+1:23:47.760 --> 1:23:54.480
+that executable. Then the problem of archived ability is seems like impossible.
+1518
+1:23:54.480 --> 1:23:58.760
+Well there are a couple things like you can't predict happen in your favor.
+1519
+1:23:58.760 --> 1:24:04.080
+What is a couple things compilers happen in your favor are usually designed in
+1520
+1:24:04.080 --> 1:24:16.080
+particularity. So for instance if you write code that actually talks directly about
+1521
+1:24:16.080 --> 1:24:19.600
+the registers that is so for instance if you write code that actually you will have
+1522
+1:24:19.600 --> 1:24:25.320
+different registers. But if you just use variable names variables and load the
+1523
+1:24:25.320 --> 1:24:28.880
+compiler allocate very few registers then you get a variable name because you just
+1524
+1:24:28.880 --> 1:24:32.240
+compile the code for different processor and a story works registers then you get
+1525
+1:24:32.240 --> 1:24:35.520
+away with it. Then where it gets trickier is actually the APIs and the operating
+1526
+1:24:35.520 --> 1:24:39.920
+system interfaces. Then where do you have actually the API for the hardware
+1527
+1:24:39.920 --> 1:24:44.240
+interface if you don't right because those things change more to the hardware
+1528
+1:24:44.240 --> 1:24:48.520
+that the surface the code because those things change. So for the operating systems
+1529
+1:24:48.520 --> 1:24:52.480
+for instance one thing that changed recently was I so for the operating
+1530
+1:24:52.480 --> 1:24:56.600
+system six came so now change recently if you want to write network code you have
+1531
+1:24:56.600 --> 1:25:00.800
+to be prepared six came out so now six now if you want to write network code you
+1532
+1:25:00.800 --> 1:25:05.120
+have to be prepared for people to have I and that's a change in the operating
+1533
+1:25:05.120 --> 1:25:09.080
+system that requires that you go in and edit that's the program change in the
+1534
+1:25:09.080 --> 1:25:12.680
+operating system that requires you go in in fact PD is
+1535
+1:25:12.680 --> 1:25:17.200
+going to get updated to network deal with IPv6 in fact PD is having
+1536
+1:25:17.200 --> 1:25:22.800
+thank you to primarily I think deal with IPv6 which I think primarily I think
+1537
+1:25:22.800 --> 1:25:27.800
+only thinking robot cowboy but I've forgotten Dan Dan Wilcox only thinking
+1538
+1:25:27.800 --> 1:25:33.200
+cowboy so and then if you're quoting actual hardware like you know an
+1539
+1:25:33.200 --> 1:25:37.880
+Arduino and then if you're quoting actual hardware like you know an Arduino
+1540
+1:25:37.880 --> 1:25:41.560
+switch then on pin number three has a particular hardware interest that you have
+1541
+1:25:41.560 --> 1:25:48.640
+to do to get the hardware address and that other break as soon as you try to
+1542
+1:25:48.640 --> 1:25:53.120
+get to a different piece of hardware and that code will break as soon as you try to
+1543
+1:25:53.120 --> 1:25:58.280
+move to a different piece of hardware right I mean I guess that at the end of
+1544
+1:25:58.280 --> 1:26:04.320
+the day you do your best the only thing that could like really disrupt things
+1545
+1:26:04.320 --> 1:26:11.160
+like quantum computing but on any other sort of you know level we're going to
+1546
+1:26:11.160 --> 1:26:16.040
+still have these architectures that we have for there's a
+1547
+1:26:16.040 --> 1:26:21.280
+Quarty is a Quarty effect that sets in all right well there's a Quarty of
+1548
+1:26:21.280 --> 1:26:23.720
+course there probably a bit actually word is that's the Quarty but everyone's
+1549
+1:26:23.720 --> 1:26:28.960
+stuck with Quarty you know Intel hardware Intel processors are I believe
+1550
+1:26:28.960 --> 1:26:33.800
+pretty much stuck in Intel hardware Intel processor so you pretty much
+1551
+1:26:33.800 --> 1:26:40.040
+still compatible all with that which is 1980s I think so so yeah things do
+1552
+1:26:40.040 --> 1:26:44.320
+ossify in fact how things get how things get yeah things and do
+1553
+1:26:44.320 --> 1:26:51.760
+addables in fact how things that things how things get usually that I owe
+1554
+1:26:51.760 --> 1:26:55.760
+like for instance it's harder and harder to plug your MIDI keyboard into a
+1555
+1:26:55.760 --> 1:26:59.200
+computer because it's hard hard hard meeting interfaith years
+1556
+1:26:59.200 --> 1:27:03.280
+or he gets to computer because MIDI so real hard to the extent that you're
+1557
+1:27:03.280 --> 1:27:09.400
+dealing with with with hardware so to the extent that you're the dodgy with
+1558
+1:27:09.400 --> 1:27:14.080
+hardware operating systems are sort of a middle ground and then and then
+1559
+1:27:14.080 --> 1:27:18.280
+it's easier to see could sort of deal with abstractions like numbers and
+1560
+1:27:18.280 --> 1:27:22.840
+then your procedure for taking future proof with that's traction and so part of
+1561
+1:27:22.840 --> 1:27:28.040
+the part of the strategy is to try or part of the a good strategy is to try to
+1562
+1:27:28.040 --> 1:27:31.720
+part of it as much of your strategy is to try in that part of a good strategy
+1563
+1:27:31.720 --> 1:27:36.000
+is to try to make world neutral zone that the zone of pure computation as you
+1564
+1:27:36.000 --> 1:27:41.520
+can get it world neutral zone yeah I mean that's a lot more detailed
+1565
+1:27:41.520 --> 1:27:45.440
+okay yeah I mean that's partial answer there's a lot yeah yeah it's a lot more
+1566
+1:27:45.440 --> 1:27:51.400
+into it yeah it's hard problem yeah it is it will go later well I will spend a
+1567
+1:27:51.400 --> 1:27:55.880
+few minutes trying to see what's wrong with my setup well I will spend a few
+1568
+1:27:55.880 --> 1:28:00.720
+minutes trying to see what's wrong with my setup
+1569
+1:28:00.720 --> 1:28:11.080
+first I'm taking a quick break
